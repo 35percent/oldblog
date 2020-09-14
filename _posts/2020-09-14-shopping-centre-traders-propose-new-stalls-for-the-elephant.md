@@ -9,4 +9,6 @@ Traders who will be losing their market stalls when the Elephant and Castle shop
 The traders’ proposals are for new stalls to be sited around the Faraday Memorial, by the railway arches along Archer St and outside the new Elephant Arcade, at the bottom of Perronet House.
 
 
+
+
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
