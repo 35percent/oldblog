@@ -9,6 +9,8 @@ Traders who will be losing their market stalls when the Elephant and Castle shop
 
 The [traders’ proposals](https://latinelephant.org/elephant-castle-relocation-proposal/) are for new stalls to be sited around the Faraday Memorial, by the railway arches along Archer St and outside the new Elephant Arcade, at the bottom of Perronet House.
 
+![](http://35percent.org/img/proposal1.png)
+
 Traders are proposing at least 45 new stalls.  Most of the new stalls would be around the large silver Faraday Memorial in the middle of the Elephant roundabout. This will become an even more important commuter route between the train station and the tube stations, with the closure of the shopping centre.  The proposal would keep established traders at the heart of the Elephant and maintain the ‘sense of place’ that they have created.  The proposal builds upon a [previous Transport for London (TfL) project](https://www.london-se1.co.uk/news/view/7961), from 2014, but never delivered.
 
 The proposal has been sent to the Mayor of London for his support.  The land around the Faraday memorial is owned by TfL, which the Mayor leads.
@@ -22,6 +24,8 @@ Traders believe that with wholehearted support from the Mayor, Southwark Council
 The proposal was devised by Alice Chilangwa Farmer and is supported by the Up the Elephant Campaign, Latin Elephant and Southwark Law Centre.  If adopted it would provide shopping options and continuity to a local community facing a prolonged period of disruption and construction work.
 
 The complete proposal can be found [here](https://latinelephant.org/elephant-castle-relocation-proposal/).
+
+![](http://35percent.org/img/proposal2.png)
 
 This is what the traders and supporters have to say;
 
