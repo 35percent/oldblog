@@ -35,4 +35,11 @@ Trader Edmund Attoh says: ‘I’m working here over 20 years. Things are very d
 
 Traders Mathew and Eden Onuba say: ‘We’ve been 5 years at Elephant and Castle. We don’t know what to do in September, it is a very difficult situation. I don’t want much, but to save the business we’ve built up together.’
 
+Traders are proposing at least 45 new stalls.  Most of the new stalls would be around the large silver Faraday Memorial in the middle of the Elephant roundabout. This will become an even more important commuter route between the train station and the tube stations, with the closure of the shopping centre.  The proposal would keep established traders at the heart of the Elephant and maintain the ‘sense of place’ that they have created.  The proposal builds upon a previous Transport for London (TfL) project, from 2014, but never delivered.
+
+The proposal has been sent to the Mayor of London for his support.  The land around the Faraday memorial is owned by TfL, which the Mayor leads.
+Local London Assembly member Florence Eshalomi MP has submitted a formal question to the Mayor asking him if he will support the proposals.
+Traders are also looking for support from local councillors from all parties and representatives at the London Assembly.
+
+
 
