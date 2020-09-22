@@ -43,7 +43,10 @@ Sadly, the [University of the Arts London (UAL)](https://www.arts.ac.uk/about-ua
 
 Southwark and Delancey’s treatment of the people who actually work at the Elephant now can be summed up as ‘division and attrition’.  The relocation strategy and traders’ participation in decisions on their future were only put in place after Delancey had gained planning committee approval for their scheme. Latin Elephant’s advocacy on behalf of all the BAME traders was also resisted.  The s106 legal agreement (negotiated between Southwark, Delancey and UAL), which determines who was ‘eligible’ and who was ineligible for relocation support uses formal criteria around leases and licences that do not reflect the way the community has developed over the years.  Alongside this, the decline in footfall and in the physical fabric of the centre led to a decline in trade that unsurprisingly meant that traders left before the centre’s closure, wearied beyond hope by the whole ‘regeneration’ process.
 
-For Southwark and Delancey this is all part of the natural process of regeneration and relocating just 40 out of 130 traders is a triumph to be proud of.  For the traders and the campaigners who support them it is deplorable outcome which exposes the hollow promise that the Elephant and Castle regeneration is one that benefits the local community.
+For Southwark and Delancey this is all part of the natural process of regeneration and relocating just 40 out of 130 traders is a triumph to be proud of.  For the traders and the campaigners who support them it is deplorable outcome which exposes the hollow promise that the Elephant and Castle regeneration is providing a 'fairer future' for the local community.
+
+http://crappistmartin.github.io/images/spd.png
+*Southwark Council's [Planning Framework for E&C regeneration.](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/supplementary-planning-documents-spd/spd-by-area?chapter=4)*
 
 ## Going, but not forgotten...
 
