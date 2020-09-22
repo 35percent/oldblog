@@ -33,6 +33,9 @@ By their own [testimonies](https://latinelephant.org/#Onubas) traders also confi
 
 Faced with the loss of their businesses the market stallholders who occupy the ‘moat’ that surrounds the shopping centre have banded together to draft [a Proposal for more market stalls at the Elephant](https://latinelephant.org/elephant-castle-relocation-proposal/), after the centre’s closure. 
 The Proposal was received by [Florence Eshalomi](https://twitter.com/FloEshalomi/status/1306540256578203648), London Assembly member for Lambeth and Southwark, who met the traders at City Hall, gave strong support and [undertook to take up the matter with Mayor Sadiq Khan](https://twitter.com/FloEshalomi/status/1306540256578203648).  Local councillor [Cllr Maria Linforth-Hall](https://twitter.com/mariaadderley?lang=en) also met the traders and is giving her support, as are Assembly members [Caroline Pidgeon](https://twitter.com/CarolinePidgeon/status/1306979203066327043/photo/1) and [Sian Berry](https://twitter.com/sianberry), Assembly Member and the Green Party candidate for Mayor.
+
+![](http://35percent.org/img/proposal1.png)
+
 The [Camberwell and Peckham Labour Party Constituency Party](https://twitter.com/cambpecklab) also passed a motion in support of the traders’ Proposal at their meeting last week.
 
 ## …while UAL looks after itself
