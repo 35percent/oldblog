@@ -1,9 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: The Elephant traders who face the end without new homes
 subtitle: Only 40 traders 'found new premises' as centre closure looms
-date: 2020/09/20
+date: 2020/09/22
 ---
 Shopping centre developer Delancey and Southwark Council have mounted a desperate defence of their failed trader’ relocation strategy, with a [joint statement](https://elephantandcastletowncentre.co.uk/news/elephant-and-castle-town-centre-relocation-correcting-the-misinformation-and-providing-the-facts/) claiming that all qualifying businesses have been relocated or offered relocation options _‘without question’_.  The centre is due to close on 24 September.
 
