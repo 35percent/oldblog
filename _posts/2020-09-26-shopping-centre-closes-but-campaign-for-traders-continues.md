@@ -45,6 +45,8 @@ adding-
 
 _‘you don’t need to love the shopping centre as it is right now (or at all), or worry about what happens after its demolition to the meeting places, public spaces and social bonds it offers, …. to raise questions about who must leave and who can stay, when the developers arrive in town’_.
 
+![](http://35percent.org/img/scentreguardian.png)
+
 [Southwark News](https://www.southwarknews.co.uk/news/traders-appeal-for-new-market-stalls-in-last-ditch-attempt-to-save-businesses-before-shopping-centre-closes/)
 also covers the rebuttal of Southwark Council and Delancey claims that nearly all traders have been satisfactorily relocated.  It quotes Latin Elephant, which has [profiled those turned down for new premises or unable to find appropriate space](https://www.southwarknews.co.uk/news/nearly-30-elephant-and-castle-traders-rejected-for-delancey-relocation-units/),  and who say-
 
