@@ -1,11 +1,13 @@
 ---
 layout: post
-published: false
+published: true 
 title: 'Shopping Centre closes, but campaign for traders continues'
 subtitle: Protesters mark the final day for Elephant shopping centre
-date: 2020/09/26
+date: 2020/09/28
 ---
 The closure of the Elephant and Castle shopping centre last Thursday was [marked by protest](https://twitter.com/UpTheElephant_?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), impassioned speeches and [widespread media coverage](https://docdro.id/thWuAyH).  The centre closed after 55 years’ service to the local community and is now set to be demolished, to make way for a new retail, leisure and residential complex.  Shopping centre owner, Delancey, leads the development partnership behind the new scheme.
+
+![](http://35percent.org/img/scentrehoarding.jpg)
 
 While the centre’s major stores had gradually left over the previous months, many of the independent businesses were trading up to the final day.  The closure also brought the end for the market which occupied the centre’s ‘moat’, which numbered around [60 stalls just under 2 years ago](https://pbs.twimg.com/media/DwEQ6HqW0AEbC6W.jpg) when Southwark’s planning committee first considered developer Delancey’s proposals for the centre’s redevelopment.
 
@@ -18,6 +20,8 @@ A large protest organised by the [Up the Elephant campaign](https://twitter.com/
 ## What the Papers say…
 
 There was extensive press and media coverage of the closure and protest, including articles on the [SE1 website](https://www.london-se1.co.uk/news/view/10407), [Southwark News](https://www.southwarknews.co.uk/news/traders-appeal-for-new-market-stalls-in-last-ditch-attempt-to-save-businesses-before-shopping-centre-closes/), [South London Press](https://londonnewsonline.co.uk/london-mayor-sadiq-khan-welcomes-plans-for-a-new-market-for-elephant-and-castle-shopping-centre-traders-as-historic-market-closes-after-more-than-half-a-century/), [South West Londoner](https://www.swlondoner.co.uk/news/19092020-elephant-and-castle-traders-speak-ahead-of-shopping-centres-demolition/), [Morning Star](https://morningstaronline.co.uk/article/b/elephant-and-castle-shopping-centre-closes-doors-good-0), [The Guardian](https://www.theguardian.com/uk-news/2020/sep/24/were-going-to-miss-the-community-elephant-and-castle-shopping-centre-closes-after-55-years?CMP=share_btn_tw) (and [here](https://www.theguardian.com/commentisfree/2020/sep/24/developers-ruining-cities-elephant-and-castle-london)), [the Justice Gap](https://londonnewsonline.co.uk/london-mayor-sadiq-khan-welcomes-plans-for-a-new-market-for-elephant-and-castle-shopping-centre-traders-as-historic-market-closes-after-more-than-half-a-century/), [Vice](https://www.vice.com/en_uk/article/z3edxj/elephant-and-castle-london-regeneration-shopping-centre) and the Spanish language [Express News UK](https://twitter.com/ExpNewsUK/status/1309329889481424896/photo/1) (and [here]( https://twitter.com/ExpNewsUK/status/1309107760479571971/photo/1)) and the BBC’s [Drivetime with Eddie Nestor](https://twitter.com/UpTheElephant_/status/1309258295048314880).
+
+![](http://35percent.org/img/scentreprotest.jpg)
 
 Amongst the comments from protest speakers highlighted in [SE1 website](https://www.london-se1.co.uk/news/view/10407) were those from Patria Roman of [Latin Elephant](https://latinelephant.org/map/), a mainstay of the campaign, and trader Emad Megahed.
 
