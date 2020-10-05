@@ -7,7 +7,11 @@ date: 2020/10/05
 ---
 Southwark Council is set to approve a mixed-used residential scheme in the Old Kent Rd Opportunity Area with no social rented housing or family housing, at its [planning meeting on 6 Oct](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6678&Ver=4).
 
+![](https://35percent.org/img/pocketplan.png)
+
 [The proposed development](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=Q3J511KB03Q00) on Ossory Rd is for 105 units of housing, with light industrial space beneath this.  All 105 units will be affordable housing, but of the most expensive type, sold at 80% market value.  The applicant is [Pocket Living](https://www.pocketliving.com/), which specialises in maximising the amount of housing on small sites.  All the homes will be one-bed, one person units, without family housing.  This is the second such Pocket Living development in the area; the first, in [Varcoe Rd](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?keyVal=ZZZV0WKBWR623&activeTab=summary) had 57 units and a third, [Credon House](https://planning.southwark.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=Q2TJM2KBKZ000), also for 57 units is in the pipeline.
+
+![](https://35percent.org/img/pocketscheme.png)
 
 ## Pocket Living make up their own rules
 
@@ -23,7 +27,9 @@ The amount of open and amenity space for occupants is also squeezed.  In a devel
 
 Pocket Living justify their radical departures from Southwark’s affordable housing requirements, by claiming they are serving the hard-pressed, young first-time buyer and supply their own statistics and census figures to back this up, dutifully reproduced by the [officer’s report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf), which recommends approval of the scheme [^4].
 
-Buying a decent home in London is undoubtedly hard for the young professionals Pocket Living housing is squarely aimed at, but they are still relatively much better off than those excluded by the absence of social and family housing from Pocket Living developments.  Pocket’s typical purchaser will have an average income of £44,000 (OR60), an income enjoyed by [less than 4.5% of Southwark’s households](https://www.southwark.gov.uk/assets/attach/11656/NSP01-New-Southwark-Plan-Submission-Version-Proposed-Modifications-for-Examination.pdf).   Supplying homes at 80% market value to those who earn this amount, at the [expense of those who earn barely half](https://www.southwark.gov.uk/assets/attach/11656/NSP01-New-Southwark-Plan-Submission-Version-Proposed-Modifications-for-Examination.pdf) that  is not what affordable housing should be about[^5].
+Buying a decent home in London is undoubtedly hard for the young professionals Pocket Living housing is squarely aimed at, but they are still relatively much better off than those excluded by the absence of social and family housing from Pocket Living developments.  Pocket’s typical purchaser will have an average income of £44,000 (OR60), an income enjoyed by [less than 4.5% of Southwark’s households](https://www.southwark.gov.uk/assets/attach/11656/NSP01-New-Southwark-Plan-Submission-Version-Proposed-Modifications-for-Examination.pdf). Pocket Living [estimates](https://planning.southwark.gov.uk/online-applications/files/6030AD1B523680D0E48386152C0A4203/pdf/20_AP_0009-VIABILITY_ASSESSMENT_MONTAGU_EVEANS-939343.pdf) that its homes will sell for approximately £300m each (with the 20% discount).  Supplying homes at these prices to those who earn £44k per year, at the [expense of those who earn barely half](https://www.southwark.gov.uk/assets/attach/11656/NSP01-New-Southwark-Plan-Submission-Version-Proposed-Modifications-for-Examination.pdf) that is not what affordable housing should be about[^5].
+
+![](http://35percent.org/img/pocketprices.png)
 
 ## Density and un-exemplary design
 
