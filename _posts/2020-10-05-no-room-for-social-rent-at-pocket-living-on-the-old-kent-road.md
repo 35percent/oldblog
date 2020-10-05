@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true 
 title: No room for social rent at Pocket Living on the Old Kent Road
 subtitle: '100% affordable housing, zero social rent, zero family housing'
 date: 2020/10/05
@@ -49,6 +49,9 @@ It is hard to see what this scheme brings to the Old Kent Rd, in housing terms. 
 Pocket Living would argue that the constraints of the site and the housing needs of a relatively well-off section of the community should outweigh these shortcomings, but Southwark’s local plan already addresses how much housing there should be for different income groups, with the overarching aim of building a mixed and cohesive community.  Pocket Living simply ignores this, so the planning committee should reject this application.
 
 You can find the [35% Campaign objection to this development here](https://planning.southwark.gov.uk/online-applications/files/8DAB57C1FA7189E58CEE5EE07D530A78/pdf/20_AP_0009-OBJECTS-937661.pdf).
+
+
+__Footnotes:__ 
 
   [^1]: Southwark's [Core Strategy](https://www.southwark.gov.uk/assets/attach/1675/1.0.2-DL-Core_Strategy_2011.pdf) Strategic Policy 7 - Family homes, pg 86
   
