@@ -3,9 +3,9 @@ layout: post
 published: true 
 title: No room for social rent at Pocket Living on the Old Kent Road
 subtitle: '100% affordable housing, zero social rent, zero family housing'
-date: 2020/10/05
+date: 2020/10/06
 ---
-Southwark Council is set to approve a mixed-used residential scheme in the Old Kent Rd Opportunity Area with no social rented housing or family housing, at its [planning meeting on 6 Oct](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6678&Ver=4).
+Southwark Council is set to approve a mixed-used residential scheme in the Old Kent Rd Opportunity Area with no social rented housing or family housing, at its [planning committee meeting this evening](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=6678&Ver=4).
 
 ![](https://35percent.org/img/pocketplan.png)
 
@@ -25,7 +25,7 @@ The amount of open and amenity space for occupants is also squeezed.  In a devel
 
 ## Not that affordable
 
-Pocket Living justify their radical departures from Southwark’s affordable housing requirements, by claiming they are serving the hard-pressed, young first-time buyer and supply their own statistics and census figures to back this up, dutifully reproduced by the [officer’s report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf), which recommends approval of the scheme [^4]. The report also makes the confusing claim that the affordable housing is policy compliant:
+Pocket Living justify their radical departures from Southwark’s affordable housing requirements, by claiming they are serving the hard-pressed, young first-time buyer and supply their own statistics and census figures to back this up, dutifully reproduced by the [officer’s report](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf), which recommends approval of the scheme [^4]. The report also makes the confusing claim that the affordable housing offer is policy compliant:
 
 ![](http://35percent.org/img/pocketcompliant.png)
 
