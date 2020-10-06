@@ -17,6 +17,8 @@ Southwark Council is set to approve a mixed-used residential scheme in the Old K
 
 Southwark Council requires 35% affordable housing, 70% of which should be social rented, on all developments of this size.  This has been the case since 2007 and the requirement has been retained in a succession of local planning documents, up to the [draft New Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/new-southwark-plan) and the [Old Kent Rd Area Action Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans-section/old-kent-road-aap).  All [major approved developments](https://oldkentroad.org.uk/keydevelopments) within the Old Kent Rd have pledged to deliver that amount.
 
+![](http://35percent.org/img/newsouthwarkplanah.png)
+
 There should also be at least [20% family housing](https://www.southwark.gov.uk/assets/attach/1675/1.0.2-DL-Core_Strategy_2011.pdf) of 3, 4, 5-beds in major developments and [60% of should comprise 2-bed homes](https://www.southwark.gov.uk/assets/attach/1675/1.0.2-DL-Core_Strategy_2011.pdf)[^1].
 
 Pocket Living, however, want to make up their own rules.  Their sites are small and it wishes to maximise the number of homes built, so they are all one -bed/one person units, [though 10% of their occupants appear to be couples](https://planning.southwark.gov.uk/online-applications/files/49DC49BD88B13B7B1434CD39C64C23BC/pdf/20_AP_0009-DESIGN_AND_ACCESS_STATEMENT_PART_1-830493.pdf), with most units [barely above the minimum size](http://moderngov.southwark.gov.uk/documents/s90901/Report%202-10%20OSSORY%20ROAD%20LONDON%20SE1%205PA.pdf) allowed (37 sq metres) [^2].
