@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Wood Dene Protest against empty homes '
 subtitle: Peckham demo to highlight the plight of the homeless
 date: 2020/10/27
@@ -13,7 +13,7 @@ The demo is to highlight the number of empty homes in the borough and takes plac
 
 [People before Profit](https://m.facebook.com/peoplebeforeprofitCVD19/) and [SDCH](https://m.facebook.com/southwarkdch/) are demanding that empty homes are requisitioned for the homeless.  It will be the third demo highlighting the issue, after demos at Maydew House and Elephant Park, formerly the Heygate estate - see [#RequistionEmptyHomes](https://twitter.com/hashtag/RequisitionEmptyHomes?src=hash).
 
-![]({{site.baseurl}}/http://35percent.org/img/wood_dene.jpg)
+![](http://35percent.org/img/wood_dene.jpg)
 
 ## Wood Dene council homes that were lost
 
@@ -23,7 +23,7 @@ Peckham Place has had a tortuous development history, [related on our Wood Dene 
 
 Despite being a housing association, NHHT produced a viability assessment that claimed that only 63 shared ownership and 54 social rent units could be built (alongside 216 private units) – a net loss of 197 affordable homes [according to the GLA](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!gC0r1MnWVfiWgymHTtPApA%3d%3d!%7d%7d%7d) [^3], compared to the council homes on Wood Dene.  By the time Peckham Place was completed in late 2019, there were 54 ‘affordable rent’,  and 201 homes for shared ownership, [according to an onsite billboard](http://35percent.org/wood-dene-regeneration/), leaving [78 for private sale](https://www.nhg.org.uk/building-homes/developments/wooddene-estate-southwark/).
 
-![]({{site.baseurl}}/http://35percent.org/img/wooddenehoarding.jpg)
+![](http://35percent.org/img/wooddenehoarding.jpg)
 
 ## What happened to the Wood Dene residents?
 
@@ -69,7 +69,7 @@ The story of Wood Dene is an object lesson in how estate regenerations go wrong.
 
 
 
-
+__Footnotes__
 [^1]: [Wood Dene SEI decant arrangements 29th July 2003](http://moderngov.southwark.gov.uk/Data/Executive/20030729/Agenda/56%20-%20Disposal%20of%20216-224Underhill%20Road,%20SE22.pdf) para 2
 
 [Wood Dene Estate Regeneration Update 23 May 2005](http://moderngov.southwark.gov.uk/Data/Executive/20050523/Agenda/Item%2011%20-%20Wooddene%20EstateRegeneration%20-%20Update.pdf) para 12
