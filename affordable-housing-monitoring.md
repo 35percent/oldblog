@@ -27,4 +27,9 @@ We subsequently contacted Southwark's Cabinet member for Regeneration in an atte
 We then referred the complaint to the Ombudsman that..
 
 GLA no longer publishes scheme-level data - why doesn't Southwark access OPS system which does contain specific addresses?
+
+![](/img/glachecklist.jpg)
+
+Why does the [GLA checklist](https://www.london.gov.uk/file/50558569) monitor only the rent levels at first let? the London Plan requires affordable housing tenures to be provided in perpetuity..
+
 Why no crossover with the Housing Department? allocations policy = 100% nominations?
