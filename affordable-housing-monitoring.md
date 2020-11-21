@@ -3,6 +3,38 @@ layout: page
 title: Affordable Housing Monitoring
 published: true
 ---
+## The problem
+
+* Social housing approved by the Council is either not being delivered or delivered under a different (higher rent) tenure to that approved.
+* In cases where social housing is being delivered as approved, there is no mechanism to ensure that the homes are allocated to local people on the Council's waiting list.
+
+
+As a local campaign group focused on the delivery of housing that is affordable to local people in Southwark, we had the legitimate expectation that when our planning committee approves secures a given number of social rented homes as part of an application for planning consent, then each of those homes will be allocated directly to households on the Council's housing waiting list (currently numbering 13,000 households) - and remain allocated in perpetuity.    
+
+![](/img/ahspd.png)
+
+Indeed, Southwark's [Affordable Housing Policy](file:///C:/Users/Giuseppe/AppData/Local/Temp/Draft_Affordable_Housing_SPD_2011.pdf) requires this.
+
+The problem is that these policies are not being enforced. Southwark is failing to require section 106 agreements are signed before permission is granted and the result is s106 agreements are failing to secure the affordable housing tenures approved by committee (social rent is often substituted for affordable rent (i.e. up to 80% market rent) and clauses securing provision in perpetuity or nomination rights are missing.
+
+Secondly, Southwark doesn't have any monitoring procedures to ensure that these affordable homes are delivered in the first place or continue to be provided under the tenure secured. 
+
+Indeed, through the Council's own internal investigations it admits that while it keeps a [list of the *number* of affordable homes secured](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/monitoring/authority-monitoring-report/housing?chapter=4) (15,237 in the past 15 years) - it doesn't keep a list of the *addresses* of these homes or ensure that they have indeed been delivered.
+
+Ombudsman complaint directed Southwark to conduct and audit of its affordable housing secured by section 106 agreements.
+
+The audit 
+
+relies entirely upon trust that the developer will comply with the .. - indeed, there is no way for the Council 
+
+In Policy H7 of the London Plan, the Mayor requires boroughs to have *clear monitoring processes* to ensure that affordable housing is delivered and remains affordable: 
+
+![](/img/lpmonitoring.png)
+
+In cases where we have brought breaches to the Council's attention it has taken no enforcement action.
+
+No crossover with the nominations/housing dept.
+
 ## Background - how we discovered the problem
 In preparing evidence for submission to the 2015 Aylesbury estate CPO public inquiry we were investigating Notting Hill Genesis's involvement in Southwark regeneration schemes to date - Silwood estate, Wood Dene estate and the Bermondsey Spa regeneration.
 
