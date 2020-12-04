@@ -9,7 +9,7 @@ The borough of Southwark contains a high proportion of social housing managed by
 
 The majority of these are homes in new-build developments approved by the Council's planning committee and secured under section 106 agreements. According to [Council data](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/monitoring/authority-monitoring-report/housing?chapter=4) 15,237 affordable homes have been approved during the last 15 years alone, of which 9,200 are recorded as completed.
 
-But the Council has no way of knowing if these affordable homes have actually been delivered, because once a development has been approved it relies purely on trust that the developer will deliver them.
+But the Council has no way of knowing if these affordable homes actually exist in real life, because once a development has been approved it relies purely on trust that the developer will deliver them.
 
 ![](http://35percent.org/img/dxw1.png)
 *Extract from [Aug 2019 Council scoping report](https://www.southwark.gov.uk/innovate/collabrative-project/affordable-housing-monitoring?chapter=8)*
@@ -17,25 +17,16 @@ But the Council has no way of knowing if these affordable homes have actually be
 ![](http://35percent.org/tenure-checker/img/ahscreenshot.png)
 *Quote from a [Dec 2019 Council briefing report](https://www.southwark.gov.uk/assets/attach/11530/alpha-report.pdf)*
 
-It goes without saying that if the Council doesn't have a mechanism for ensuring that affordable housing is delivered in the first place, then it has no way of knowing that any affordable housing which is provided gets allocated to families on its husing waiting list (currently numbering more than 13,000), or that it remains so at future re-lets.
+This means that the Council doesn't know how much (if any) of the new homes built in the borough are meeting local housing need - i.e. are allocated to families on its housing waiting list (currently numbering more than 13,000), or remains so at future re-lets.
 
 ![](http://35percent.org/img/dxw2.png)
 *Extract from [July 2019 Council scoping report](https://www.southwark.gov.uk/innovate/collabrative-project/affordable-housing-monitoring?chapter=5)*
 
-We alerted the Council to this problem in 2015 when we were contacted by a resident concerned that his private-rented home should have been used for affordable housing.
-
-We referred it to the Ombudsman in 2016 after it became clear that the Council didn't want to tackle the problem.
+We alerted the Council to this problem in 2015, showing how affordable homes were being sold on the open market or rented at higher rents. We raised it with the Local Government Ombudsman, who told the Council to introduce monitoring systems and conduct annual audits.
 
 ![](http://35percent.org/img/snauditpromise.png)
 
-After a damning Ombudsman report Southwark spent four years and several hundred thousand pounds commissioning an open-source software app that would enable effective section 106 monitoring.
-
-![](http://35percent.org/img/rtpi.png)
-*[Article](https://www.theplanner.co.uk/features/tech-landscape-how-a-simple-app-is-improving-affordable-housing-provision-in-southwark) from 'ThePlanner' magazine - the RTPI's online journal*
-
-Shortly after winning an award from the Royal Town Planners Institute, Southwark decided to shelve the software because.[   ]..[   ]...
-
-We want to see this software put into use.
+Five years on and the Council still hasn't got any monitoring system in place, neither has it completed any audits and we are still finding homes approved as social rented housing being advertised at market rents on the open market.
 
 
 ## Background - how we discovered the problem
@@ -152,4 +143,11 @@ We acknowledge that conducting a proper audit will be costly and time consuming,
 
 __Footnotes:__
 [^1]: See paragraph 172 of the [planning committee report](http://moderngov.southwark.gov.uk/documents/s82712)
+
+
+## Parked
+![](http://35percent.org/img/rtpi.png)
+*[Article](https://www.theplanner.co.uk/features/tech-landscape-how-a-simple-app-is-improving-affordable-housing-provision-in-southwark) from 'ThePlanner' magazine - the RTPI's online journal*
+
+Shortly after winning an award from the Royal Town Planners Institute, Southwark decided to shelve the software because.[   ]..[   ]...
 
