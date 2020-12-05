@@ -145,6 +145,7 @@ We call on Southwark Council to conduct a proper audit and publish a comprehensi
 This list should be made public and searchable in order to dissuade housing associations from increasing rents beyond the levels permitted by the tenure secured in the section 106 agreement.
 
 ![](http://35percent.org/img/tchecker.png)
+*Prototype of publicly searchable database of S106 affordable home tenures - [35percent.org/tenure-checker](http://35percent.org/tenure-checker)*
 
 __Footnotes:__
 [^1]: See paragraph 172 of the [planning committee report](http://moderngov.southwark.gov.uk/documents/s82712)
