@@ -110,7 +110,7 @@ Similarly, the 553-home Tabard Square scheme (02/AP/0168) was approved with a re
 The audit clearly hasn't been conducted effectively. It remains impossible to know how much affordable housing has been delivered or whether it has been delivered under the tenure required by the section 106 agreement.
 
 
-## Council stopped producing monitoring reports after Ombudsman decision
+## Council stopped producing S106 monitoring reports
 Southwark's failure to properly conduct the audit cannot be down to lack of resources. It charges developers a monitoring fee for monitoring ongoing section 106 compliance. For reasons unknown, Southwark stopped producing its [annual section 106 monitoring reports](https://www.southwark.gov.uk/planning-and-building-control/section-106-and-community-infrastructure-levy/section-106?chapter=3) in 2014, so it is impossible to say exactly how much it has collected in monitoring contributions to date.
 
 ![](http://35percent.org/img/s106reports.png)
@@ -132,7 +132,7 @@ Housing associations should be asked to provide an up-to-date list of affordable
 
 NB. Southwark records the geo-coordinates of each consented scheme - it [submits](https://data.gov.uk/dataset/be656e61-1647-4ebe-ace0-f3c0718574e1/london-s-housing-data-from-amr13) these to the GLA every year. They can be viewed on the GLA's LDD map here: [https://maps.london.gov.uk/land-development-database/](https://maps.london.gov.uk/land-development-database/)
 
-Should any housing associations fail to cooperate, Southwark could search Land Registry records for all properties owned by that housing association. Local Authorities have unique access to these types of Land Registry searches: [https://www.gov.uk/guidance/hm-land-registry-ownership-and-extent-data](https://www.gov.uk/guidance/hm-land-registry-ownership-and-extent-data). There are also paid services available which provide GIS data with a UPRN lookup providing address and ownership data for a given building or land parcel.
+Should any housing associations fail to cooperate, Southwark could search Land Registry records for all properties owned by that housing association. Local Authorities have unique access to these types of Land Registry searches: [https://www.gov.uk/guidance/hm-land-registry-ownership-and-extent-data](https://www.gov.uk/guidance/hm-land-registry-ownership-and-extent-data). There are also [paid services](https://use-land-property-data.service.gov.uk/datasets/nps) available, which provide GIS data with a UPRN lookup providing address and ownership data for a given building or land parcel.
 
 We acknowledge that conducting a proper audit will be costly and time consuming, but each affordable home recovered through identified breaches will help the Council discharge its duty to house local families and ultimately save money on temporary accommodation costs - Southwark is currently spending over £10m per year on temporary accommodation.
 
