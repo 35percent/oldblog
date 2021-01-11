@@ -67,5 +67,16 @@ Similarly, the 553-home Tabard Square scheme (02/AP/0168) was approved with a re
 
 The audit clearly hasn’t been conducted effectively. It remains impossible to know how much affordable housing has been delivered or whether it has been delivered under the tenure required by the section 106 agreement.
 
+Southwark Councillors makes a song and dance about the number of affordable homes that they have 'succeeded' in securing from developers at planning stage.
+
+![](http://35percent.org/img/seatontwitter.png)
+
+In some cases this is even used as the justification for approving developments that don't meet other planning policy requirements.
+
+But they don't care if it the social rented homes are actually delivered or if they are delivered as a higher rent tenure. 
+
+Five years on from our original complaint, 2021 will be the year that we refer this issue back to the Local Government Ombudsman. Our message to Southwark Councillors is this: we appreciate that it's inconvenient for you to accept that developers and housing associations are not delivering on the affordable housing promises they make at planning approval stage, but if you are genuinely concerned about the delivery of social rented housing then you will carry out a proper audit of affordable housing delivery over the past 15 years. You claim that developers have built 5,462 social rented homes. We won't believe you until we see a list of the addresses of each of these and evidence that they have been provided as social rent not unaffordable rents of up to 80% market rent. 
+
+![](http:/35percent.org/img/screenshotahmon.png)
 
 
