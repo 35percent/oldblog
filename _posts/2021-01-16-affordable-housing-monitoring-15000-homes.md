@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 5,462 social rented homes unaccounted for
-subtitle: Five years after damning Ombudsman report and Southwark still doesn't know if social rented homes are being delivered
+title: Social rent or Affordable rent?
+subtitle: Five years on from Ombudsman's report the question mark remains.
 published: true 
 ---
 Five years ago today, Southwark Council rejected our [complaint](http://35percent.org/img/ccomplaint15Dec2016.pdf) that affordable homes secured from private developments weren't in fact being delivered, Southwark's Director of Planning [saying](/img/Stage1response28Jan2016.pdf) _‘Southwark Council has appropriate safeguards in place and has not failed in its duties .. therefore your compliant is not upheld"._
