@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Southwark's five thousand social rented homes which may or may not exist
-subtitle: Lack of monitoring means the Council doesn't know how many social rented homes have been delivered
+title: 5,462 social rented homes unaccounted for
+subtitle: Five years after damning Ombudsman report and Southwark still doesn't know if social rented homes are being delivered
 published: true 
 ---
 Five years ago today, Southwark Council rejected our [complaint](http://35percent.org/img/ccomplaint15Dec2016.pdf) that affordable homes secured from private developments weren't in fact being delivered, Southwark's Director of Planning [saying](/img/Stage1response28Jan2016.pdf) _‘Southwark Council has appropriate safeguards in place and has not failed in its duties .. therefore your compliant is not upheld"._
@@ -9,7 +9,7 @@ Five years ago today, Southwark Council rejected our [complaint](http://35percen
 We made the complaint after discovering that Neo Bankside, a high-profile development next to the Tate Gallery, had only delivered 62 of the 94 social rented homes required by the planning approval. The story was [taken up by the Guardian](https://www.theguardian.com/artanddesign/architecture-design-blog/2015/jul/21/neo-bankside-how-richard-rogers-new-non-dom-accom-cut-out-the-poor).
 
 ![](http://35percent.org/img/neoguardian.png)
-*Guardian article exposing our findings at the Neo-Bankside development*
+*Guardian article including our findings at the Neo-Bankside development*
 
 We were later contacted by a resident living at the Signal building, a new development at Elephant & Castle, who was confused about an affordable housing tenant pack put through his letterbox. He was concerned that a similar trick had been pulled by the developer of his building, as he was paying market rent for his flat. He asked if we knew how to find out if his flat was supposed to be one of the 11 affordable homes in the building and what implications that would have.
 
@@ -34,7 +34,7 @@ We then cross-checked planning committee reports with section 106 agreements, La
 ![](http://35percent.org/img/arexampless.png)
 
 ## The Ombudsman
-When Southwark rejected our complaint we referred the matter to the Local Government Ombudsman and in November 2016 he [published a damning report](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) stating that Southwark actually have procedures for monitoring the delivery of affordable housing. In response Southwark undertook to introduce monitoring procedures and conduct an audit of all the section 106 affordable housing in the borough.
+When Southwark rejected our complaint we referred the matter to the Local Government Ombudsman and in November 2016 he [published a damning report](http://35percent.org/2016-12-12-ombudsman-slams-southwark-for-no-s106-monitoring/) stating that Southwark actually have no proper procedures for monitoring the delivery of affordable housing. In response Southwark undertook to introduce monitoring procedures and conduct an audit of all the section 106 affordable housing in the borough.
 
 ![](http://35percent.org/img/LGOFinalDecisionSOR.png)
 
@@ -49,24 +49,23 @@ But the audit is in fact only a list of developments, detailing affordable housi
 
 ![](http://35percent.org/img/audit_extract.png)
 
-In addition, the audit shows that in over two thirds of the Council still doesn’t have confirmation of the affordable housing provided and nearly one thousand homes have 'Not Known' tenure, out of nearly 7,000 affordable homes listed.
+In addition, the audit shows that in over two thirds of the developments, the Council still doesn’t have confirmation of the affordable housing provided and nearly one thousand homes have 'Not Known' tenure, out of nearly 7,000 affordable homes listed.
 
-In many cases where the housing association has responded confirming the tenure and number of homes provided they clear don't match with the requirements of the planning consent.
+In many cases where the housing association has responded confirming the tenure and number of homes provided, they clearly don't match with the requirements of the planning consent.
 
 For example, phase 1 of the Aylesbury estate (07/CO/0046) is listed as being let at affordable rent (i.e. up to 80% market rent) but the s106 agreement for this scheme requires social rent.
 
 Similarly phase 1 of the Canada Water regeneration (09/AP/1870) required at least 123 homes at social rent. The audit shows these all at being provided at affordable rent.
 
-Similarly, the 553-home Tabard Square scheme (02/AP/0168) was approved with a requirement for at least 79 social rented units. These are being listed as having been provided by Horizon Housing Association as affordable rent.
+Also, the 553-home Tabard Square scheme (02/AP/0168) was approved with a requirement for at least 79 social rented units. These are being listed as having been provided by Horizon Housing Association as affordable rent.
 
 ## Show us the 5,462 social rented homes
 
 The audit clearly hasn’t been conducted effectively. It remains impossible to know with certainty how much affordable housing has been delivered or whether it has been delivered under the tenure required by the section 106 agreement.
 
-
 Southwark’s Housing Engagement and Scrutiny Commission [considered affordable housing delivery at its last meeting](https://www.youtube.com/watch?v=OF0cobZ3kIk&amp;feature=youtu.be) at the beginning of December and we have sent the Commission a [detailed account of the gaps and flaws in the audit](http://35percent.org/img/hscrutiny.pdf). We have told the Commission that five years on, Southwark still has not properly fulfilled the requirements of the Ombudsman’s decision. 
 
-We also point out that at every stage we have pursued this issue Southwark's response has been that it is in the process of [developing new software](https://www.southwark.gov.uk/innovate/collabrative-project/affordable-housing-monitoring) to deal with monitoring. But after 5 years of developing this software is still not operational. 
+As we have pursued this issue, Southwark's response has been that it is in the process of [developing new software](https://www.southwark.gov.uk/innovate/collabrative-project/affordable-housing-monitoring) to deal with monitoring. But after 5 years of development this software is still not operational. 
 
 Southwark Council has lately been emphasising the number of affordable and the number of social rented homes that they have succeeded in securing from developers at the planning stage, but this is obviously a hollow claim if the homes are not built and or are then let at a higher rent tenure. Until a proper audit is conducted (plus an investigation of any apparent infractions) Southwark’s [claim to have delivered 5,462 social rented homes](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/monitoring/authority-monitoring-report/housing?chapter=4), in particular, can only be met with scepticism. 
 
@@ -74,4 +73,10 @@ Southwark Council is now under new leadership - solving this issue head-on, inst
 
 ![](http://35percent.org/img/screenshotahmon.png)
 *Southwark's website [claims](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/monitoring/authority-monitoring-report/housing?chapter=4) it has delivered 5,462 social rented homes*
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@35percent_EAN">
+<meta name="twitter:title" content="5,462 social rented homes unaccounted for">
+<meta name="twitter:description" content="5 years after damning Ombudsman report and Southwark still doesn't know if social rented homes are being delivered.">
+<meta name="twitter:image" content="http://35percent.org/img/arexampless.png">
 
