@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Social rent or Affordable rent?
+title: Social Rent or Affordable Rent?
 subtitle: Five years on from Ombudsman's report the question mark remains.
 published: true 
 ---
@@ -76,7 +76,7 @@ Southwark Council is now under new leadership - solving this issue head-on, inst
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@35percent_EAN">
-<meta name="twitter:title" content="5,462 social rented homes unaccounted for">
-<meta name="twitter:description" content="5 years after damning Ombudsman report and Southwark still doesn't know if social rented homes are being delivered.">
+<meta name="twitter:title" content="Social Rent or Affordable Rent?">
+<meta name="twitter:description" content="5 years after damning Ombudsman report and Southwark still doesn't know which tenures are actually delivered.">
 <meta name="twitter:image" content="http://35percent.org/img/arexampless.png">
 
