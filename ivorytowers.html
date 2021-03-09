@@ -167,7 +167,7 @@
 	<script>
 		var map = L.map('map').setView([51.494476, -0.099849], 16);
 
-		L.tileLayer(CM_URL, {attribution: CM_ATTR, styleId: 22677}).addTo(map);
+		L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw').addTo(map);
 
 		var LeafIcon = L.Icon.extend({
 			options: {
