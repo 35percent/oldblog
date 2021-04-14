@@ -1,4 +1,7 @@
 # config.yml
+publish_mode: editorial_workflow
+site_url: https://35percent.org
+logo_url: http://35percent.org/img/epicregeneration3.png
 
 backend:
   name: git-gateway
