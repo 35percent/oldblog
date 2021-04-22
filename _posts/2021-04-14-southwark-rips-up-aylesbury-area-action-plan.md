@@ -28,3 +28,5 @@ Members of our campaign gave evidence to the Aylesbury Plan's Examination in Pub
 Southwark [declared a climate emergency] in xxxx.
 The Aylesbury redevelopment was supposed to be a carbon neutral development according to the AAAP.
 
+End of service life..
+
