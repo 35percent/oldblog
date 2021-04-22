@@ -20,3 +20,11 @@ The [Aylesbury Area Action Plan](https://www.southwark.gov.uk/planning-and-build
 Area Action Plans are special planning policy documents which are required when an undergoes extensive redevelopment. They require a high level of consulation and involvement of residents affected and are subject to an independent Examination in Public.
 
 Members of our campaign gave evidence to the Aylesbury Plan's Examination in Public ten years ago and we
+
+## Bailed out by HRA
+2005 decision said it would be 'cost neutral' but Southwark but by 2014 had already spent £50m on the scheme having demolished just 100 homes. In 2020 Southwark [agreed to bail out](http://35percent.org/2020-07-12-aylesbury-estate-fds-variation/) its development partner Notting Hill housing by allocating a further £200m, after the housing association was [hit with financial problems](https://www.insidehousing.co.uk/news/news/notting-hill-genesis-scales-back-development-plans-amid-changing-market-conditions-62506).
+
+## Climate Emergency
+Southwark [declared a climate emergency] in xxxx.
+The Aylesbury redevelopment was supposed to be a carbon neutral development according to the AAAP.
+
