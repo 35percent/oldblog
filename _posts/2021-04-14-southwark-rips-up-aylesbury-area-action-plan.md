@@ -3,30 +3,73 @@ layout: post
 title: Southwark rips up Aylesbury Area Action Plan
 date: 2021-04-14T09:05:04.995Z
 ---
-Without consultation, Southwark Council has decided to scrap the 182-page planning document which sets the parameters for its redevelopment of the Aylesbury estate. It will instead be replaced by a [5-page 'site allocation'](img/nsp-aylesbury-background-paper-12-april-2021.pdf) (see paras 11-13) as part of the [New Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/new-southwark-plan).
+Without consultation, Southwark Council has decided to scrap the 182-page planning document which sets the parameters for its redevelopment of the Aylesbury estate. It will instead be replaced by a [5-page 'site allocation'](img/nsp-aylesbury-background-paper-12-april-2021.pdf) (see paras 11-13) as part of the [New Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/new-southwark-plan) and 1-page 'Area Vision'.
 
 ![Image of front cover of AAAP](/img/screenshot_2021-04-14-aylesbury-area-action-plan-january-2010-aylesbury-aap-2010-pdf.png)
 
-The implications of this are significant; the Aylesbury Area Action Plan set out a number of requirements that have now effectively been dropped.
+The implications of this are significant; the [Aylesbury Area Action Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans-section/aylesbury-aap) (AAAP) set out a number of requirements, which will not be carried across into the New Southwark Plan meaning that they have now effectively been dropped.
 
-* Minimum 50% affordable housing (this now falls back to borough-wide requirement of 35%)
+## Zero Carbon Growth
 
-  * No net loss of affordable housing (para 3.3.1 of the AAAP) this now falls away 
+Policy 3.6.1 of the AAAP required the scheme to result in 'zero carbon growth':
 
+*"The development will be designed to result in zero carbon growth, that is,no net growth in carbon dioxide emissions despite an increase in the number of dwellings. This will require buildings which are highly energy efficient."*
 
+The New Southwark Plan policies for the Aylesbury make no reference to the scheme's carbon growth requirements.
+
+## Open Space
+
+Policy 4.5.1 of the AAAP requires that the Aylesbury redevelopment results in no net loss of open space. The New Southwark Plan policies make no reference to open space requirements for the redeveloped Aylesbury.
+
+Paragraph A6.5.7 of the AAAP envisaged the replacement open space to come in the form of a series of 'green fingers' - *"multi-functional spaces that link with Burgess Park" :"A series of ‘green fingers’ will be created, extending from Burgess Park into the action area core interlinking the park with the development. Their predominant function is that of a public space with social interaction, pedestrian and cycle movement dominating."*
+
+![](/img/screenshot_2021-04-24-richardleeproof-pdf.png)
+
+The New Southwark Plan policies make no reference to open space requirements for the redeveloped Aylesbury or to the green fingers.
+
+![](/img/fdsgreenspace.jpg)
+
+## Childrens' Play/Youth Space
+
+Paragraph 3.6.2 of the AAAP says: *"We will require children’s play areas to be integrated into the residential areas. About 3 hectares of children’s play space and youth space will be provided".*
+
+The generous allocation that the AAAP made to play and youth space is reflected by the fact that the Aylesbury estate itself was designed around an extensive network of children's and youth play spaces.
+
+![](http://35percent.org/img/aylesburycourts.jpg)
+
+The proposed New Southwark Plan makes no requirement to replace any of the children's play and youth space.
+
+## Family homes
+
+The Aylesbury estate contains a high proportion of family homes over a third of the homes are 3 beds or larger. Because of this the AAAP set out to ensure that this proportion is maintained, further adding that: *"“Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation.” (para 3.5.3)"*
+
+The proposed dwelling mix schedule on pages 106 and 107 of the AAAP said that 1,315 of the 4,200 new homes on the estate would be 3-bed family homes or larger.
+
+The proposed New Southwark Plan says that just 20% of the new homes need to be 3-bed or larger.
+
+## Replacement Social Housing
+
+The AAAP committed to replacing all of the social rented housing on the Aylesbury estate (para 3.3.1 of the AAAP).
+
+In 2019, Southwark [announced](https://www.southwarknews.co.uk/news/aylesbury-regen-increase-in-social-rent-housing-in-phase-2-means-all-tenants-from-later-development-stages-will-have-off-plan-homes-ready-by-2028/) in a [Cabinet report](https://moderngov.southwark.gov.uk/documents/s81088/Report%20Aylesbury%20Regeneration%20Programme%20Moving%20Forward.pdf) that it plans to increase the number of new homes in order to ensure that there is no net loss of social rented housing. 
+
+While the New Southwark Plan indicates that *"it would now be appropriate to consider an increased number of homes for  the  Aylesbury  area within  the  land  covered  by  the  Area  Action  Plan  boundary,  with  a  view  to moving towards replacing  all  the  existing  social  rented  homes"*, it falls short of making a commitment either to increasing the density or ensuring no net loss. 
+
+## End of service life?
+
+In its New Southwark Plan Southwark describes the Aylesbury estate as *"characterised by large concrete slab buildings built in the mid 1960s –70s, now at the end of their service life."*
+
+This caused some controversy among estate residents, some of which [made objections during the plan's examination in public last Tuesday](https://www.youtube.com/watch?v=l3CohnTQXhI). They argued that the Council has submitted no evidence base supporting this claim and has failed to investigate whether refurbisment could be a more viable option, especially given Southwark's recent decision [to bail out](http://35percent.org/2020-07-12-aylesbury-estate-fds-variation/) its development partner Notting Hill housing by allocating a further £200m, after the housing association was [hit with financial problems](https://www.insidehousing.co.uk/news/news/notting-hill-genesis-scales-back-development-plans-amid-changing-market-conditions-62506). 
+
+Successful examples of the refurbishment of estates built using the same system as the Aylesbury can be found on the [Six Acres estate](http://crappistmartin.github.io/images/OCD28_SixAcresestateRefurb_Illustrations.pdf) in Islington and the [Doddington estate](/img/doddington.pdf) in Battersea.
+
+![](/img/sixacresbeforeafter.jpg)
+
+## Conclusion
 
 The [Aylesbury Area Action Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans-section/aylesbury-aap) (AAAP) was adopted 10 years ago following lengthy consultation with residents and the general public.
 
 Area Action Plans are special planning policy documents which are required when an undergoes extensive redevelopment. They require a high level of consulation and involvement of residents affected and are subject to an independent Examination in Public.
 
-Members of our campaign gave evidence to the Aylesbury Plan's Examination in Public ten years ago and we
-
-## Bailed out by HRA
-2005 decision said it would be 'cost neutral' but Southwark but by 2014 had already spent £50m on the scheme having demolished just 100 homes. In 2020 Southwark [agreed to bail out](http://35percent.org/2020-07-12-aylesbury-estate-fds-variation/) its development partner Notting Hill housing by allocating a further £200m, after the housing association was [hit with financial problems](https://www.insidehousing.co.uk/news/news/notting-hill-genesis-scales-back-development-plans-amid-changing-market-conditions-62506).
-
-## Climate Emergency
-Southwark [declared a climate emergency] in xxxx.
-The Aylesbury redevelopment was supposed to be a carbon neutral development according to the AAAP.
-
-End of service life..
+Southwark should not be rescinding this important planning policy document half way through an examination in public, without first carrying out a full public consultation and ensuring that the key policies are carried across - not silently dropped.
 
