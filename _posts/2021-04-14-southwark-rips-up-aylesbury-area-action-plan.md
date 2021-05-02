@@ -71,7 +71,9 @@ The loss of the AAAP also allows Southwark to gloss over the dismally slow pace 
 
 These figures also take no account of the homes lost through demolition.  When this is factored in the situation is even worse.  ‘Net’ building, that is homes above the number knocked-down, will not start arriving until 2022/23, when 122 net homes are expected.  There will be a further 276 in 23/24, with the remaining 1,102 to be completed between 2025-2035 (Appendix 2: Sites Methodology Report April 2021).
 
-These issues were forcefully raised by local campaigners and residents at [the EiP](https://www.youtube.com/watch?v=l3CohnTQXhI).  They questioned whether Notting Hill Genesis (NHG), the developer of the site, was actually capable of delivering the development, pointing out that NHG had been the subject of a regulatory (?) warning last year, prompting Southwark [to bail them out](https://www.35percent.org/2020-07-12-aylesbury-estate-fds-variation/) and take over the First Development Site itself (link).
+These issues were forcefully raised by local campaigners and residents at [the EiP](https://www.youtube.com/watch?v=l3CohnTQXhI).  They questioned whether Notting Hill Genesis (NHG), the developer of the site, was actually capable of delivering the development, pointing out that NHG had been the subject of a [regulatory warning last year](https://www.gov.uk/government/publications/regulatory-judgement-notting-hill-genesis/previous-regulatory-judgement-notting-hill-genesis-31-july-2019), prompting Southwark [to bail them out](https://www.35percent.org/2020-07-12-aylesbury-estate-fds-variation/) and take over the First Development Site itself.
+
+Campaigners also cast some doubt on whether a large net gain in housing would ever be achieved, without which the huge displacement and disruption of the whole regeneration can barely be justified.
 
 Campaigners argued, that given these circumstances, there would need to be changes to the planning permission granted to NHG and the agreement it has with Southwark for delivering the development. 
 
