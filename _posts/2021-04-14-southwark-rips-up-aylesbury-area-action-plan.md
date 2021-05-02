@@ -7,7 +7,7 @@ Without consultation, Southwark Council has decided to scrap the 182-page planni
 
 ![Image of front cover of AAAP](/img/screenshot_2021-04-14-aylesbury-area-action-plan-january-2010-aylesbury-aap-2010-pdf.png)
 
-The implications of this are significant; the [Aylesbury Area Action Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans-section/aylesbury-aap) (AAAP) set out a number of requirements, which will not be carried across into the New Southwark Plan meaning that they have now effectively been dropped.
+The implications of this are significant; while Southwark claim that all the relevant policies in the [Aylesbury Area Action Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans-section/aylesbury-aap)  will be taken into account by the NSP, to ensure that such things as the more generous space standards, more family housing and car-parking for residents are retained, and that there will be no 'policy gap' the AAAP set out a number of requirements, which will not be carried across into the New Southwark Plan, meaning that they have now effectively been dropped.
 
 ## Zero Carbon Growth
 
