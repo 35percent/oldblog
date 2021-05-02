@@ -77,10 +77,13 @@ Campaigners also cast some doubt on whether a large net gain in housing would ev
 
 Campaigners argued, that given these circumstances,, and not forgetting the climate emergency (link Southwark’s commitment), there would need to be changes to the planning permission granted to NHG and the agreement it has with Southwark for delivering the development. 
 
+## A puzzle
 
-The time has come for a rethink….
+There is also a mystery as to how Southwark will fulfill its new commitment to replacing the 2,249 social rented units.  While making this commitment in the NSP, Southwark also insisted in the public examination that the AAAP numbers for housing and tenure mix will remain the same. The problem with this is that Notting Hill Genesis’s planning permission depends on these numbers and these allow for a loss of social rented units of anything between 237 and 778 social rented units, (as does the legal agreement for the development between Southwark and NHG).  Southwark acknowledged if there was a significant change in the numbers, that there would have to be a new planning permission, but that was not envisaged.
 
-## Conclusion
+The answer to this might be that Southwark pay NHG for the site and take over the permission themselves, as they [did on the FDS](https://www.35percent.org/2020-07-12-aylesbury-estate-fds-variation/), converting units to social rent; this, though, would be a big drain on its housing revenue account (HRA), depriving Southwark of funds to spend on social housing elsewhere in the borough.
+
+## The time has come for a rethink....
 
 The [Aylesbury Area Action Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans-section/aylesbury-aap) (AAAP) was adopted 10 years ago following lengthy consultation and was supposed to govern the 20-year redevelopment of the estate.
 
