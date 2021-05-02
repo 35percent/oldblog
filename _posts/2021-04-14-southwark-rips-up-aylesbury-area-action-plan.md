@@ -67,7 +67,7 @@ Successful examples of the refurbishment of estates built using the same system 
 
 ## Aylesbury - part of the problem, not the solution
 
-The loss of the AAAP also allows Southwark to gloss over the dismally slow pace of the redevelopment.  According to the AAAP’s timetable over 2,500 new homes should have been built by now (Table A7.1), at an average rate of 221 homes per year; in fact, only 408 have been completed, giving a rate on only 40 homes per year.
+The loss of the AAAP also allows Southwark to gloss over the dismally slow pace of the redevelopment.  While various community facilities, including the the Michael Faraday school, have been completed, the house building programme has fallen many years behind schedule.  According to the AAAP’s timetable over 2,500 new homes should have been built by now (Table A7.1), at an average rate of 221 homes per year; in fact, only 408 have been completed, giving a rate on only 40 homes per year.
 
 These figures also take no account of the homes lost through demolition.  When this is factored in the situation is even worse.  ‘Net’ building, that is homes above the number knocked-down, will not start arriving until 2022/23, when 122 net homes are expected.  There will be a further 276 in 23/24, with the remaining 1,102 to be completed between 2025-2035 (Appendix 2: Sites Methodology Report April 2021).
 The time has come for a rethink….
