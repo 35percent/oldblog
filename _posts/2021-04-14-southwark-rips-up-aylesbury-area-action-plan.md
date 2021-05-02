@@ -70,6 +70,12 @@ Successful examples of the refurbishment of estates built using the same system 
 The loss of the AAAP also allows Southwark to gloss over the dismally slow pace of the redevelopment.  While various community facilities, including the the Michael Faraday school, have been completed, the house building programme has fallen many years behind schedule.  According to the AAAP’s timetable over 2,500 new homes should have been built by now (Table A7.1), at an average rate of 221 homes per year; in fact, only 408 have been completed, giving a rate on only 40 homes per year.
 
 These figures also take no account of the homes lost through demolition.  When this is factored in the situation is even worse.  ‘Net’ building, that is homes above the number knocked-down, will not start arriving until 2022/23, when 122 net homes are expected.  There will be a further 276 in 23/24, with the remaining 1,102 to be completed between 2025-2035 (Appendix 2: Sites Methodology Report April 2021).
+
+These issues were forcefully raised by local campaigners and residents at [the EiP](https://www.youtube.com/watch?v=l3CohnTQXhI).  They questioned whether Notting Hill Genesis (NHG), the developer of the site, was actually capable of delivering the development, pointing out that NHG had been the subject of a regulatory (?) warning last year, prompting Southwark [to bail them out](https://www.35percent.org/2020-07-12-aylesbury-estate-fds-variation/) and take over the First Development Site itself (link).
+
+Campaigners argued, that given these circumstances, there would need to be changes to the planning permission granted to NHG and the agreement it has with Southwark for delivering the development. 
+
+
 The time has come for a rethink….
 
 ## Conclusion
@@ -79,3 +85,5 @@ The [Aylesbury Area Action Plan](https://www.southwark.gov.uk/planning-and-build
 Area Action Plans are special planning policy documents which are required when an undergoes extensive redevelopment. They require a high level of consulation and involvement of residents affected and are subject to an independent Examination in Public.
 
 Southwark should not be rescinding this important planning policy document half way through the estate's redevelopment without first carrying out a full public consultation and ensuring that the key policies are carried across to the proposed New Southwark Plan.
+
+Not behind closed doors....
