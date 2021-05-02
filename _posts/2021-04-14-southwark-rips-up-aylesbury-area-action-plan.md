@@ -73,9 +73,9 @@ These figures also take no account of the homes lost through demolition.  When t
 
 These issues were forcefully raised by local campaigners and residents at [the EiP](https://www.youtube.com/watch?v=l3CohnTQXhI).  They questioned whether Notting Hill Genesis (NHG), the developer of the site, was actually capable of delivering the development, pointing out that NHG had been the subject of a [regulatory warning last year](https://www.gov.uk/government/publications/regulatory-judgement-notting-hill-genesis/previous-regulatory-judgement-notting-hill-genesis-31-july-2019), prompting Southwark [to bail them out](https://www.35percent.org/2020-07-12-aylesbury-estate-fds-variation/) and take over the First Development Site itself.
 
-Campaigners also cast some doubt on whether a large net gain in housing would ever be achieved, without which the huge displacement and disruption of the whole regeneration can barely be justified.
+Campaigners also cast some doubt on whether a large net gain in housing would ever be achieved, without which the huge displacement and disruption of the whole regeneration can barely be justified. The additional pressure on the housing waiting list of rehousing displaced tenants was also noted. 
 
-Campaigners argued, that given these circumstances, there would need to be changes to the planning permission granted to NHG and the agreement it has with Southwark for delivering the development. 
+Campaigners argued, that given these circumstances,, and not forgetting the climate emergency (link Southwark’s commitment), there would need to be changes to the planning permission granted to NHG and the agreement it has with Southwark for delivering the development. 
 
 
 The time has come for a rethink….
