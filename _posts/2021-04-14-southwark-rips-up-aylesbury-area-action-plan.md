@@ -53,7 +53,13 @@ Campaigners and residents giving evidence at the EIP also pointed out that there
 
 In March 2019, Southwark [announced](https://www.southwarknews.co.uk/news/aylesbury-regen-increase-in-social-rent-housing-in-phase-2-means-all-tenants-from-later-development-stages-will-have-off-plan-homes-ready-by-2028/) in a [Cabinet report](https://moderngov.southwark.gov.uk/documents/s81088/Report%20Aylesbury%20Regeneration%20Programme%20Moving%20Forward.pdf) an *'important shift'* in its plans for the Aylesbury, with the *'ambition... to see the replacement of the number of social rented homes on the footprint of the estate'.*  This welcome change would be helped by an increase in density on Phase 2 of the site, increasing the number of homes by nearly 400 units, to 1,250 in total.  
 
-The New Southwark Plan follows through on this, saying that *"it would now be appropriate to consider an increased number of homes within  the  land  covered  by  the Action Area Core, replacing  all  the  existing  social  rented  homes within the footprint of the estate".*  
+The New Southwark Plan follows through on this, [saying that](https://www.southwark.gov.uk/assets/attach/38832/EIP202a-Aylesbury-Background-Paper-Update-20042021.pdf) *"it would now be appropriate to consider an increased number of homes within  the  land  covered  by  the Action Area Core, replacing  all  the  existing  social  rented  homes within the footprint of the estate".* 
+
+So far only 148 social rented units have been delivered, with a further 581 council houses under construction on the First Development Site.  These leaves about 1,500 social rented units to be built, if Southwark is to replace the Aylesbury's social rented housing, which is nearly half of the total remaining development ([see Table 14 here](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d)).
+
+Meantime, Notting Hill Genesis remain in possession of a planning permission that allows for a loss of social rented units, which points to either further increases in density or a deal with Notting Hill Genesis, [as was done for the First Development Site](https://www.35percent.org/2020-07-12-aylesbury-estate-fds-variation/), or some combination of the two.
+
+
 
 ## End of service life?
 
