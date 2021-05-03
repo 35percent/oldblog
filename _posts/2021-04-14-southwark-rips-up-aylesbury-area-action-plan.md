@@ -27,15 +27,17 @@ Policy 4.5.1 of the AAAP requires that the Aylesbury redevelopment results in no
 
 This is a particular concern, given Southwark's welcome new commitment to re-provide all the social housing on the new development, which could put space at a premium.  The NSP also allows payments in lieu of providing open space, a get-out that is often used by developers who want to build to maximum density.
 
-Aylesbury omitted from SP1b
+
 
 ![](/img/fdsgreenspace.jpg)
 
-Paragraph A6.5.7 of the AAAP envisaged the replacement open space to come in the form of a series of 'green fingers' - *"multi-functional spaces that link with Burgess Park" :"A series of ‘green fingers’ will be created, extending from Burgess Park into the action area core interlinking the park with the development. Their predominant function is that of a public space with social interaction, pedestrian and cycle movement dominating."*
+Paragraph A6.5.7 of the AAAP also envisaged the replacement open space to come in the form of a series of 'green fingers' - *"multi-functional spaces that link with Burgess Park" :"A series of ‘green fingers’ will be created, extending from Burgess Park into the action area core interlinking the park with the development. Their predominant function is that of a public space with social interaction, pedestrian and cycle movement dominating."*
+
+The NSP makes no reference to the green fingers.
 
 ![](/img/screenshot_2021-04-24-richardleeproof-pdf.png)
 
-The New Southwark Plan policies make no reference to open space requirements for the redeveloped Aylesbury or to the green fingers.
+
 
 ## Childrens' Play/Youth Space
 
