@@ -69,7 +69,7 @@ Successful examples of the refurbishment of estates built using the same system 
 
 ## Delayed delivery
 
-Residents at the EIP also argued that the loss of the AAAP would allow Southwark to gloss over delays to the  redevelopment.  Southwark insisted that the monitoring provisons of the AAAP would be retained, but in any event the dismally slow pace of progress cannot be disguised.
+Residents at the EIP also argued that the loss of the AAAP would allow Southwark to gloss over delays to the  redevelopment.  Southwark insisted that the monitoring provisions of the AAAP would be retained, but in any event the dismally slow pace of progress cannot be disguised.
 
 While various community facilities have been completed, the house building programme has fallen many years behind schedule.  Over 2,500 new homes should have been built by now, according to the [AAAP’s timetable](https://www.southwark.gov.uk/assets/attach/12791/EIP32-Aylesbury-AAP-2010-.pdf)  (Table A7.1), at an average rate of 221 homes per year; in fact, only 408 have been completed, giving a rate on only 40 homes per year.
 
@@ -79,14 +79,10 @@ Campaigners also cast some doubt on whether a large net gain in housing would ev
 
 ## The time has come for a rethink....
 
-The [Aylesbury Area Action Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans-section/aylesbury-aap) (AAAP) was adopted 10 years ago following lengthy consultation and was supposed to govern the 20-year redevelopment of the estate.  
+The [Aylesbury Area Action Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans-section/aylesbury-aap) (AAAP) was adopted 10 years ago and was supposed to govern the 20-year redevelopment of the estate.  Action Plans are special planning policy documents for big, extensive redevelopments. They require a high level of consultation and the involvement of affected residents.  
 
-There are good reasons to update the AAAP (not least because it now comes into conflict with more recent planning policy documents) but Area Action Plans are special planning policy documents, for large, extensive redevelopments, such as the Aylesbury. They require a high level of consultation and involvement of residents affected and are subject to an independent Examination in Public.
+The Aylesbury AAP is a complex document, with a large evidence base and was only finalised after its own Examination in Public. There may now be good reasons to update it, not least because it comes into conflict with more recent planning policy documents.
 
-Any proper consultation must also take into account the slow progress to date, the climate emergency and the impact of the redevelopment on the residents, the majority of whom are from black and ethnic minority backgrounds (a point forcefully made by long-term residents, past and present, in the EIP).
+But it cannot be right that it is simply discarded, at short notice, half way through the estate's redevelopment, without first carrying out a proper public consultation.  Southwark's reassurances, given in the EIP, that all the key policies will be carried over to the New Southwark Plan are not good enough, particularly given the sorry history of the estate's regeneration so far (link - Andy Beckett article)
 
-Should it 
-
-Southwark should not be rescinding this important planning policy document half way through the estate's redevelopment without first carrying out a full public consultation and ensuring that the key policies are carried across to the proposed New Southwark Plan.
-
-Not behind closed doors....
+Any proper consultation must also take into account the slow progress of the redevelopment to date and the urgent need to address the climate emergency.  It should also assess the impact of the redevelopment on the residents, the majority of whom are from black and ethnic minority backgrounds, and what benefits, or otherwise, will fall to them (a point forcefully made by long-term residents, past and present, in the EIP).
