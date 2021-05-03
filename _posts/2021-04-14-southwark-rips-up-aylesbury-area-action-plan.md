@@ -49,23 +49,11 @@ Campaigners and residents giving evidence at the EIP also pointed out that there
 
 ![](http://35percent.org/img/aylesburycourts.jpg)
 
-
-
-## Family homes
-
-The Aylesbury estate contains a high proportion of family homes; over a third of the homes on the estate are 3 beds or larger. Because of this the AAAP set out to ensure that this proportion is maintained, further adding that: *"Increasing the proportion of homes suitable for families was a key concern which local residents raised during consultation.” (para 3.5.3)"*
-
-The proposed dwelling mix schedule on pages 106 and 107 of the AAAP said that 1,315 of the 4,200 new homes on the estate would be 3-bed family homes or larger.
-
-The proposed New Southwark Plan says that just 20% of the new homes need to be 3-bed or larger.
-
 ## Replacement Social Housing
 
-The AAAP committed to replacing all of the social rented housing on the Aylesbury estate (para 3.3.1 of the AAAP).
+In March 2019, Southwark [announced](https://www.southwarknews.co.uk/news/aylesbury-regen-increase-in-social-rent-housing-in-phase-2-means-all-tenants-from-later-development-stages-will-have-off-plan-homes-ready-by-2028/) in a [Cabinet report](https://moderngov.southwark.gov.uk/documents/s81088/Report%20Aylesbury%20Regeneration%20Programme%20Moving%20Forward.pdf) an *'important shift'* in its plans for the Aylesbury, with the *'ambition... to see the replacement of the number of social rented homes on the footprint of the estate'.*  This welcome change would be helped by an increase in density on Phase 2 of the site, increasing the number of homes by nearly 400 units, to 1,250 in total.  
 
-In 2019, Southwark [announced](https://www.southwarknews.co.uk/news/aylesbury-regen-increase-in-social-rent-housing-in-phase-2-means-all-tenants-from-later-development-stages-will-have-off-plan-homes-ready-by-2028/) in a [Cabinet report](https://moderngov.southwark.gov.uk/documents/s81088/Report%20Aylesbury%20Regeneration%20Programme%20Moving%20Forward.pdf) that it plans to increase the number of new homes in order to ensure that there is no net loss of social rented housing. 
-
-While the New Southwark Plan indicates that *"it would now be appropriate to consider an increased number of homes for  the  Aylesbury  area within  the  land  covered  by  the  Area  Action  Plan  boundary,  with  a  view  to moving towards replacing  all  the  existing  social  rented  homes"*, it falls short of making a commitment either to increasing the density or ensuring no net loss. 
+The New Southwark Plan follows through on this, saying that *"it would now be appropriate to consider an increased number of homes within  the  land  covered  by  the Action Area Core, replacing  all  the  existing  social  rented  homes within the footprint of the estate".*  
 
 ## End of service life?
 
@@ -101,7 +89,7 @@ The [Aylesbury Area Action Plan](https://www.southwark.gov.uk/planning-and-build
 
 There are good reasons to update the AAAP (not least because it now comes into conflict with more recent planning policy documents) but Area Action Plans are special planning policy documents, for large, extensive redevelopments, such as the Aylesbury. They require a high level of consultation and involvement of residents affected and are subject to an independent Examination in Public.
 
-Any proper consultation must also take into account progress to date, the climate emergency and the impact of the redevelopment on the residents, the majority from black and ethnic minority backgrounds (a point forcefully made by long-term residents. past and present, in the EIP).
+Any proper consultation must also take into account the slow progress to date, the climate emergency and the impact of the redevelopment on the residents, the majority of whom are from black and ethnic minority backgrounds (a point forcefully made by long-term residents, past and present, in the EIP).
 
 Should it 
 
