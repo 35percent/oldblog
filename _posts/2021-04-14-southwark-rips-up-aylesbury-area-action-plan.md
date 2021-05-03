@@ -13,7 +13,7 @@ The implications of this are significant; while Southwark claim that all the rel
 
 ## Zero Carbon Growth
 
-Amongst the AAAP policies, Policy 3.6.1 requires the scheme to result in 'zero carbon growth':
+Amongst the policies supporting the AAAP, Policy 3.6.1 requires the scheme to result in 'zero carbon growth':
 
 *"The development will be designed to result in zero carbon growth, that is, no net growth in carbon dioxide emissions despite an increase in the number of dwellings. This will require buildings which are highly energy efficient."*
 
@@ -61,23 +61,21 @@ Meantime, Notting Hill Genesis remain in possession of a planning permission tha
 
 The NSP described the Aylesbury estate as *"characterised by large concrete slab buildings built in the mid 1960s –70s, now at the end of their service life."*
 
-This drew criticism from residents, leading to a change of wording. Further [objections during the EIP hearing](https://www.youtube.com/watch?v=l3CohnTQXhI), argued that the Council had submitted no evidence supporting this claim and had failed to investigate whether refurbishment could be a more viable and sustainable option.  This was contrasted to Southwark's decision [to bail out](http://35percent.org/2020-07-12-aylesbury-estate-fds-variation/) Notting Hill Genesis housing, at a cost of over £200m, after the housing association failed to deliver the First Development site, evidently [hit with financial viability problems](https://www.insidehousing.co.uk/news/news/notting-hill-genesis-scales-back-development-plans-amid-changing-market-conditions-62506). 
+This drew criticism from residents, leading to a change of wording. Further [objections during the EIP hearing](https://www.youtube.com/watch?v=l3CohnTQXhI), argued that the Council had submitted no evidence supporting the claim that the estate was at the end of its service life and had failed to investigate whether refurbishment could be a more viable and sustainable option.  This was contrasted to Southwark's decision [to bail out](http://35percent.org/2020-07-12-aylesbury-estate-fds-variation/) Notting Hill Genesis housing, at a cost of over £200m, after the housing association failed to deliver the First Development site, evidently [hit with financial viability problems](https://www.insidehousing.co.uk/news/news/notting-hill-genesis-scales-back-development-plans-amid-changing-market-conditions-62506). 
 
 Successful examples of the refurbishment of estates built using the same system as the Aylesbury and which might usefully be examined, can be found on the [Six Acres estate](http://crappistmartin.github.io/images/OCD28_SixAcresestateRefurb_Illustrations.pdf) in Islington and the [Doddington estate](/img/doddington.pdf) in Battersea.
 
 ![](/img/sixacresbeforeafter.jpg)
 
-## Part of the problem, not the solution
+## Delayed delivery
 
-The loss of the AAAP also allows Southwark to gloss over the dismally slow pace of the redevelopment.  While various community facilities have been completed, the house building programme has fallen many years behind schedule.  According to the AAAP’s timetable over 2,500 new homes should have been built by now (Table A7.1), at an average rate of 221 homes per year; in fact, only 408 have been completed, giving a rate on only 40 homes per year.
+Residents at the EIP also argued that the loss of the AAAP would allow Southwark to gloss over delays to the  redevelopment.  Southwark insisted that the monitoring provisons of the AAAP would be retained, but in any event the dismally slow pace of progress cannot be disguised.
+
+While various community facilities have been completed, the house building programme has fallen many years behind schedule.  Over 2,500 new homes should have been built by now, according to the [AAAP’s timetable](https://www.southwark.gov.uk/assets/attach/12791/EIP32-Aylesbury-AAP-2010-.pdf)  (Table A7.1), at an average rate of 221 homes per year; in fact, only 408 have been completed, giving a rate on only 40 homes per year.
 
 These figures also take no account of the homes lost through demolition.  When this is factored in the situation is even worse.  ‘Net’ building, that is homes above the number knocked-down, will not start arriving until 2022/23, when 122 net homes are expected.  There will be a further 276 in 23/24, with the remaining 1,102 to be completed between 2025-2035 (Appendix 2: Sites Methodology Report April 2021).
 
-These issues were forcefully raised by local campaigners and residents at [the EiP](https://www.youtube.com/watch?v=l3CohnTQXhI).  They questioned whether Notting Hill Genesis (NHG), the developer of the site, was actually capable of delivering the development, pointing out that NHG had been the subject of a [regulatory warning last year](https://www.gov.uk/government/publications/regulatory-judgement-notting-hill-genesis/previous-regulatory-judgement-notting-hill-genesis-31-july-2019), prompting Southwark [to bail them out](https://www.35percent.org/2020-07-12-aylesbury-estate-fds-variation/) and take over the First Development Site itself.
-
 Campaigners also cast some doubt on whether a large net gain in housing would ever be achieved, without which the huge displacement and disruption of the whole regeneration can barely be justified. The additional pressure on the housing waiting list of rehousing displaced tenants was also noted. 
-
-Campaigners argued, that given these circumstances,, and not forgetting the climate emergency (link Southwark’s commitment), there would need to be changes to the planning permission granted to NHG and the agreement it has with Southwark for delivering the development. 
 
 ## The time has come for a rethink....
 
