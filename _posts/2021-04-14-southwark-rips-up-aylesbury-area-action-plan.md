@@ -3,21 +3,23 @@ layout: post
 title: Southwark rips up Aylesbury Area Action Plan
 date: 2021-04-14T09:05:04.995Z
 ---
-Without consultation, Southwark Council has decided to scrap the 182-page planning document which sets the parameters for its redevelopment of the Aylesbury estate. The so-called Aylesbury Area Action Plan (AAAP) 2010 will instead be replaced by a [5-page 'site allocation'](img/nsp-aylesbury-background-paper-12-april-2021.pdf) (see paras 11-13) as part of the [New Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/new-southwark-plan) and 1-page 'Area Vision'.
+Without consultation, Southwark Council has decided to scrap the 182-page planning document which sets the parameters for its redevelopment of the Aylesbury estate. The so-called Aylesbury Area Action Plan (AAAP) will instead be replaced by a [5-page 'site allocation'](img/nsp-aylesbury-background-paper-12-april-2021.pdf) (see paras 11-13)and a two-page 'Area Vision', as part of the [New Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/new-southwark-plan) .
 
-The decision was revealed in a [late background paper](https://www.southwark.gov.uk/assets/attach/38832/EIP202a-Aylesbury-Background-Paper-Update-20042021.pdf) for the Examination in Public (EIP) of the New Southwark Plan (NSP).  Described by the government Inspector at the Examination in Public as a ‘raft of policies’, the  AAAP comprised 29 policy documents, plus numerous background and evidence papers.  It was adopted as the effective rule-book for the redevelopment of the estate in 2010, after several years of extensive public consultation, including its own separate public examination.
+The decision was revealed in a [late background paper](https://www.southwark.gov.uk/assets/attach/38832/EIP202a-Aylesbury-Background-Paper-Update-20042021.pdf) for the Examination in Public  of the New Southwark Plan (NSP).  Described by the government Inspector at the [Examination in Public (EIP)](https://www.youtube.com/watch?v=l3CohnTQXhI) as a ‘raft of policies’, the AAAP incorporated [29 policy documents](https://digital-land.github.io/development-plan-document/local-authority-eng/SWK/dev-plan-aaap-2010/#record), covering all aspects of the redevelopment, including housing, design, open space and the phasing of the development.  It was adopted as the effective rule-book for the redevelopment of the estate in 2010, after several years of extensive public consultation, including its own separate public examination.
 
 ![Image of front cover of AAAP](/img/screenshot_2021-04-14-aylesbury-area-action-plan-january-2010-aylesbury-aap-2010-pdf.png)
 
-The implications of this are significant; while Southwark claim that all the relevant policies in the [Aylesbury Area Action Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans-section/aylesbury-aap)  will be taken into account by the NSP, to ensure that such things as the more generous space standards, more family housing and car-parking for residents are retained, the AAAP set out a number of requirements, which will not be carried across into the New Southwark Plan, meaning that they have now effectively been dropped.
+The implications of this are significant; while Southwark claim that all the relevant policies in the [AAAP](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans-section/aylesbury-aap) will be taken into account by the NSP, so that such things as more generous space standards, more family housing and car-parking for residents are retained, the lack of any prior notice or consultation has raised strong fears that much that was beneficial in the AAAP will not be carried across into the New Southwark Plan (NSP).
 
 ## Zero Carbon Growth
 
-Policy 3.6.1 of the AAAP required the scheme to result in 'zero carbon growth':
+Amongst the AAAP policies, Policy 3.6.1 requires the scheme to result in 'zero carbon growth':
 
 *"The development will be designed to result in zero carbon growth, that is, no net growth in carbon dioxide emissions despite an increase in the number of dwellings. This will require buildings which are highly energy efficient."*
 
-The New Southwark Plan policies for the Aylesbury make no reference to the scheme's carbon growth requirements.
+While the NSP requires developers to take measures towards achieving carbon neutrality, and has targets for major developments (Policy P69), the very specific requirement that the Aylesbury achieves zero carbon growth will be lost.
+
+Experience has shown that unless such a requirements is exact and explicit, as it is for the Aylesbury, it can be lost when complicated, large schemes are considered for planning approval and the decision is made by balancing out how well the development meets all planning requirements. 
 
 ## Open Space
 
