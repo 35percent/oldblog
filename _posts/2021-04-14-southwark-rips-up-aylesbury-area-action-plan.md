@@ -19,11 +19,15 @@ Amongst the AAAP policies, Policy 3.6.1 requires the scheme to result in 'zero c
 
 While the NSP requires developers to take measures towards achieving carbon neutrality, and has targets for major developments (Policy P69), the very specific requirement that the Aylesbury achieves zero carbon growth will be lost.
 
-Experience has shown that unless such a requirements is exact and explicit, as it is for the Aylesbury, it can be lost when complicated, large schemes are considered for planning approval and the decision is made by balancing out how well the development meets all planning requirements. 
+Experience has shown that unless such a requirements is exact and explicit, as it is for the Aylesbury, it can be lost when complicated, large schemes are considered for planning approval and the decision is made by balancing out how well the development meets all planning requirements, not just environmental requirements. 
 
 ## Open Space
 
-Policy 4.5.1 of the AAAP requires that the Aylesbury redevelopment results in no net loss of open space. The New Southwark Plan policies make no reference to open space requirements for the redeveloped Aylesbury.
+Policy 4.5.1 of the AAAP requires that the Aylesbury redevelopment results in no net loss of open space. Again, while the NSP has the strategic target for the borough, to retain and protect all open space, it makes no specific reference to open space requirements for the redeveloped Aylesbury.
+
+This is a particular concern, given Southwark's welcome new commitment to re-provide all the social housing on the new development, which could put space at a premium.  The NSP also allows payments in lieu of providing open space, a get-out that is often used by developers who want to build to maximum density.
+
+Aylesbury omitted from SP1b
 
 ![](/img/fdsgreenspace.jpg)
 
