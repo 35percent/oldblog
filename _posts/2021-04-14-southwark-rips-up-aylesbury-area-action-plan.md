@@ -3,7 +3,7 @@ layout: post
 title: Southwark rips up Aylesbury Area Action Plan
 date: 2021-04-14T09:05:04.995Z
 ---
-Without consultation, Southwark Council has decided to scrap the 182-page planning document which sets the parameters for its redevelopment of the Aylesbury estate. The so-called Aylesbury Area Action Plan (AAAP) will instead be replaced by a [](img/nsp-aylesbury-background-paper-12-april-2021.pdf)[two-page 'Area Vision' and 5-page site allocation](https://www.southwark.gov.uk/assets/attach/38832/EIP202a-Aylesbury-Background-Paper-Update-20042021.pdf) as part of the [New Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/new-southwark-plan).
+Without consultation, Southwark Council has decided to scrap the 182-page planning document which sets the parameters for its redevelopment of the Aylesbury estate. The so-called Aylesbury Area Action Plan (AAAP) will instead be replaced by as part of the [New Southwark Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/new-southwark-plan).
 
 The decision was revealed in a [late background paper](https://www.southwark.gov.uk/assets/attach/38832/EIP202a-Aylesbury-Background-Paper-Update-20042021.pdf) for the Examination in Public  of the New Southwark Plan (NSP).  Described by the government Inspector at the [Examination in Public (EIP)](https://www.youtube.com/watch?v=l3CohnTQXhI) as a ‘raft of policies’, the AAAP incorporated [29 policy documents](https://digital-land.github.io/development-plan-document/local-authority-eng/SWK/dev-plan-aaap-2010/#record), covering all aspects of the redevelopment, including housing, design, open space and the phasing of the development.  It was adopted as the effective rule-book for the redevelopment of the estate in 2010, after several years of extensive public consultation, including its own separate public examination.
 
@@ -26,8 +26,6 @@ Experience has shown that unless such a requirement is exact and explicit, as it
 Policy 4.5.1 of the AAAP requires that the Aylesbury redevelopment results in no net loss of open space. Again, while the NSP has the strategic target for the borough, to retain and protect all open space, it makes no specific reference to open space requirements for the redeveloped Aylesbury.
 
 This is a particular concern, given Southwark's welcome new commitment to re-provide all the social housing on the new development, which could put space at a premium.  The NSP also allows payments in lieu of providing open space, a get-out that is often used by developers who want to build to maximum density.
-
-
 
 ![](/img/fdsgreenspace.jpg)
 
