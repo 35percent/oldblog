@@ -19,7 +19,7 @@ Amongst the AAAP policies, Policy 3.6.1 requires the scheme to result in 'zero c
 
 While the NSP requires developers to take measures towards achieving carbon neutrality, and has targets for major developments (Policy P69), the very specific requirement that the Aylesbury achieves zero carbon growth will be lost.
 
-Experience has shown that unless such a requirements is exact and explicit, as it is for the Aylesbury, it can be lost when complicated, large schemes are considered for planning approval and the decision is made by balancing out how well the development meets all planning requirements, not just environmental requirements. 
+Experience has shown that unless such a requirement is exact and explicit, as it is for the Aylesbury, it can be lost when complicated, large schemes are considered for planning approval and the decision is made by balancing out how well the development meets all planning requirements, not just the environmental ones. 
 
 ## Open Space
 
@@ -51,11 +51,11 @@ Campaigners and residents giving evidence at the EIP also pointed out that there
 
 ## Replacement Social Housing
 
-In March 2019, Southwark [announced](https://www.southwarknews.co.uk/news/aylesbury-regen-increase-in-social-rent-housing-in-phase-2-means-all-tenants-from-later-development-stages-will-have-off-plan-homes-ready-by-2028/) in a [Cabinet report](https://moderngov.southwark.gov.uk/documents/s81088/Report%20Aylesbury%20Regeneration%20Programme%20Moving%20Forward.pdf) an *'important shift'* in its plans for the Aylesbury, with the *'ambition... to see the replacement of the number of social rented homes on the footprint of the estate'.*  This welcome change would be helped by an increase in density on Phase 2 of the site, increasing the number of homes by nearly 400 units, to 1,250 in total.  
+In March 2019, Southwark [announced](https://www.southwarknews.co.uk/news/aylesbury-regen-increase-in-social-rent-housing-in-phase-2-means-all-tenants-from-later-development-stages-will-have-off-plan-homes-ready-by-2028/) in a [Cabinet report](https://moderngov.southwark.gov.uk/documents/s81088/Report%20Aylesbury%20Regeneration%20Programme%20Moving%20Forward.pdf) an *'important shift'* in its plans for the Aylesbury, with the *'ambition... to see the replacement of the number of social rented homes on the footprint of the estate'.* The density and number of homes on Phase 2 was therefore increased, with 400 extra units, up to 1,250 homes in total.  
 
 The New Southwark Plan follows through on this, [saying that](https://www.southwark.gov.uk/assets/attach/38832/EIP202a-Aylesbury-Background-Paper-Update-20042021.pdf) *"it would now be appropriate to consider an increased number of homes within  the  land  covered  by  the Action Area Core, replacing  all  the  existing  social  rented  homes within the footprint of the estate".* 
 
-So far only 148 social rented units have been delivered, with a further 581 council houses under construction on the First Development Site.  These leaves about 1,500 social rented units to be built, if Southwark is to replace the Aylesbury's social rented housing, which is nearly half of the total remaining development ([see Table 14 here](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d)).
+But only 148 social rented units have been delivered so far, with a further 581 council houses under construction on the First Development Site.  These leaves about 1,500 social rented units to be built, if Southwark is to replace the Aylesbury's social rented housing, which is nearly half of the total remaining development ([see Table 14 here](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d)).
 
 Meantime, Notting Hill Genesis remain in possession of a planning permission that allows for a loss of social rented units, which points to either further increases in density or a deal with Notting Hill Genesis, [as was done for the First Development Site](https://www.35percent.org/2020-07-12-aylesbury-estate-fds-variation/), or some combination of the two.
 
@@ -82,12 +82,6 @@ These issues were forcefully raised by local campaigners and residents at [the E
 Campaigners also cast some doubt on whether a large net gain in housing would ever be achieved, without which the huge displacement and disruption of the whole regeneration can barely be justified. The additional pressure on the housing waiting list of rehousing displaced tenants was also noted. 
 
 Campaigners argued, that given these circumstances,, and not forgetting the climate emergency (link Southwark’s commitment), there would need to be changes to the planning permission granted to NHG and the agreement it has with Southwark for delivering the development. 
-
-## A puzzle
-
-Campaigners also There is also a mystery about how Southwark's welcome new commitment, to replace the Aylesbury's 2,249 social rented units, will be delivered, while Notting Hill Genesis’s planning permission allow for a loss of up to 778 social rented units.  Southwark acknowledged in the EIP that if there was a significant change in the housing numbers, then there would have to be a new planning permission, but that this was not envisaged. 
-
-The answer to this might be that Southwark pay NHG for the site and take over the permission themselves, as they [did on the FDS](https://www.35percent.org/2020-07-12-aylesbury-estate-fds-variation/), converting free-market or intermediate units to social rent; this, though, would be a big drain on its housing revenue account (HRA), depriving Southwark of funds to spend on social housing elsewhere in the borough.
 
 ## The time has come for a rethink....
 
