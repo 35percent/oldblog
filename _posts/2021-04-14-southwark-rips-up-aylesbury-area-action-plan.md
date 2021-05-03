@@ -37,8 +37,6 @@ The NSP makes no reference to the green fingers.
 
 ![](/img/screenshot_2021-04-24-richardleeproof-pdf.png)
 
-
-
 ## Childrens' Play/Youth Space
 
  Paragraph 3.6.2 of the AAAP says: *"We will require children’s play areas to be integrated into the residential areas. About 3 hectares of children’s play space and youth space will be provided".*
@@ -59,19 +57,17 @@ But only 148 social rented units have been delivered so far, with a further 581 
 
 Meantime, Notting Hill Genesis remain in possession of a planning permission that allows for a loss of social rented units, which points to either further increases in density or a deal with Notting Hill Genesis, [as was done for the First Development Site](https://www.35percent.org/2020-07-12-aylesbury-estate-fds-variation/), or some combination of the two.
 
-
-
 ## End of service life?
 
-In its proposed New Southwark Plan Southwark describes the Aylesbury estate as *"characterised by large concrete slab buildings built in the mid 1960s –70s, now at the end of their service life."*
+The NSP described the Aylesbury estate as *"characterised by large concrete slab buildings built in the mid 1960s –70s, now at the end of their service life."*
 
-This caused some controversy among estate residents, some of which [made objections during the plan's examination in public last Tuesday](https://www.youtube.com/watch?v=l3CohnTQXhI). They argued that the Council has submitted no evidence base supporting this claim and has failed to investigate whether refurbisment could be a more viable option, especially given Southwark's recent decision [to bail out](http://35percent.org/2020-07-12-aylesbury-estate-fds-variation/) its development partner Notting Hill housing by allocating a further £200m, after the housing association was [hit with financial problems](https://www.insidehousing.co.uk/news/news/notting-hill-genesis-scales-back-development-plans-amid-changing-market-conditions-62506). 
+This drew criticism from residents, leading to a change of wording. Further [objections during the EIP hearing](https://www.youtube.com/watch?v=l3CohnTQXhI), argued that the Council had submitted no evidence supporting this claim and had failed to investigate whether refurbishment could be a more viable and sustainable option.  This was contrasted to Southwark's decision [to bail out](http://35percent.org/2020-07-12-aylesbury-estate-fds-variation/) Notting Hill Genesis housing, at a cost of over £200m, after the housing association failed to deliver the First Development site, evidently [hit with financial viability problems](https://www.insidehousing.co.uk/news/news/notting-hill-genesis-scales-back-development-plans-amid-changing-market-conditions-62506). 
 
-Successful examples of the refurbishment of estates built using the same system as the Aylesbury can be found on the [Six Acres estate](http://crappistmartin.github.io/images/OCD28_SixAcresestateRefurb_Illustrations.pdf) in Islington and the [Doddington estate](/img/doddington.pdf) in Battersea.
+Successful examples of the refurbishment of estates built using the same system as the Aylesbury and which might usefully be examined, can be found on the [Six Acres estate](http://crappistmartin.github.io/images/OCD28_SixAcresestateRefurb_Illustrations.pdf) in Islington and the [Doddington estate](/img/doddington.pdf) in Battersea.
 
 ![](/img/sixacresbeforeafter.jpg)
 
-## Aylesbury - part of the problem, not the solution
+## Part of the problem, not the solution
 
 The loss of the AAAP also allows Southwark to gloss over the dismally slow pace of the redevelopment.  While various community facilities have been completed, the house building programme has fallen many years behind schedule.  According to the AAAP’s timetable over 2,500 new homes should have been built by now (Table A7.1), at an average rate of 221 homes per year; in fact, only 408 have been completed, giving a rate on only 40 homes per year.
 
