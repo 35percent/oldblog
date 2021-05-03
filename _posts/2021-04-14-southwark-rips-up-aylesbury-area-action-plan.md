@@ -9,7 +9,7 @@ The decision was revealed in a [late background paper](https://www.southwark.gov
 
 ![Image of front cover of AAAP](/img/screenshot_2021-04-14-aylesbury-area-action-plan-january-2010-aylesbury-aap-2010-pdf.png)
 
-The implications of this are significant; while Southwark claim that all the relevant policies in the [AAAP](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans-section/aylesbury-aap) will be taken into account by the NSP, so that such things as more generous space standards, more family housing and car-parking for residents are retained, the lack of any prior notice or consultation has raised strong fears that much that was beneficial in the AAAP will not be carried across into the New Southwark Plan (NSP).
+The implications of this are significant; while Southwark claim that all the relevant policies in the [AAAP](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans-section/aylesbury-aap) will be taken into account by the NSP, so that such things as more generous space standards, more family housing and car-parking for residents are retained, the lack of any prior notice or consultation has raised strong fears that much that was beneficial in the AAAP will not be carried across into the New Southwark Plan.
 
 ## Zero Carbon Growth
 
@@ -79,7 +79,7 @@ Successful examples of the refurbishment of estates built using the same system 
 
 ## Aylesbury - part of the problem, not the solution
 
-The loss of the AAAP also allows Southwark to gloss over the dismally slow pace of the redevelopment.  While various community facilities, including the the Michael Faraday school, have been completed, the house building programme has fallen many years behind schedule.  According to the AAAP’s timetable over 2,500 new homes should have been built by now (Table A7.1), at an average rate of 221 homes per year; in fact, only 408 have been completed, giving a rate on only 40 homes per year.
+The loss of the AAAP also allows Southwark to gloss over the dismally slow pace of the redevelopment.  While various community facilities have been completed, the house building programme has fallen many years behind schedule.  According to the AAAP’s timetable over 2,500 new homes should have been built by now (Table A7.1), at an average rate of 221 homes per year; in fact, only 408 have been completed, giving a rate on only 40 homes per year.
 
 These figures also take no account of the homes lost through demolition.  When this is factored in the situation is even worse.  ‘Net’ building, that is homes above the number knocked-down, will not start arriving until 2022/23, when 122 net homes are expected.  There will be a further 276 in 23/24, with the remaining 1,102 to be completed between 2025-2035 (Appendix 2: Sites Methodology Report April 2021).
 
@@ -91,15 +91,19 @@ Campaigners argued, that given these circumstances,, and not forgetting the clim
 
 ## A puzzle
 
-There is also a mystery as to how Southwark will fulfill its new commitment to replacing the 2,249 social rented units.  While making this commitment in the NSP, Southwark also insisted in the public examination that the AAAP numbers for housing and tenure mix will remain the same. The problem with this is that Notting Hill Genesis’s planning permission depends on these numbers and these allow for a loss of social rented units of anything between 237 and 778 social rented units, (as does the legal agreement for the development between Southwark and NHG).  Southwark acknowledged that if there was a significant change in the numbers, then there would have to be a new planning permission, but that this was not envisaged.
+Campaigners also There is also a mystery about how Southwark's welcome new commitment, to replace the Aylesbury's 2,249 social rented units, will be delivered, while Notting Hill Genesis’s planning permission allow for a loss of up to 778 social rented units.  Southwark acknowledged in the EIP that if there was a significant change in the housing numbers, then there would have to be a new planning permission, but that this was not envisaged. 
 
 The answer to this might be that Southwark pay NHG for the site and take over the permission themselves, as they [did on the FDS](https://www.35percent.org/2020-07-12-aylesbury-estate-fds-variation/), converting free-market or intermediate units to social rent; this, though, would be a big drain on its housing revenue account (HRA), depriving Southwark of funds to spend on social housing elsewhere in the borough.
 
 ## The time has come for a rethink....
 
-The [Aylesbury Area Action Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans-section/aylesbury-aap) (AAAP) was adopted 10 years ago following lengthy consultation and was supposed to govern the 20-year redevelopment of the estate.
+The [Aylesbury Area Action Plan](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/development-plan/area-action-plans-section/aylesbury-aap) (AAAP) was adopted 10 years ago following lengthy consultation and was supposed to govern the 20-year redevelopment of the estate.  
 
-Area Action Plans are special planning policy documents which are required when an undergoes extensive redevelopment. They require a high level of consultation and involvement of residents affected and are subject to an independent Examination in Public.
+There are good reasons to update the AAAP (not least because it now comes into conflict with more recent planning policy documents) but Area Action Plans are special planning policy documents, for large, extensive redevelopments, such as the Aylesbury. They require a high level of consultation and involvement of residents affected and are subject to an independent Examination in Public.
+
+Any proper consultation must also take into account progress to date, the climate emergency and the impact of the redevelopment on the residents, the majority from black and ethnic minority backgrounds (a point forcefully made by long-term residents. past and present, in the EIP).
+
+Should it 
 
 Southwark should not be rescinding this important planning policy document half way through the estate's redevelopment without first carrying out a full public consultation and ensuring that the key policies are carried across to the proposed New Southwark Plan.
 
