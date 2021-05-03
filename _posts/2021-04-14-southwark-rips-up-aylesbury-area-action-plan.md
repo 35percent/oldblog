@@ -41,13 +41,15 @@ The NSP makes no reference to the green fingers.
 
 ## Childrens' Play/Youth Space
 
-Paragraph 3.6.2 of the AAAP says: *"We will require children’s play areas to be integrated into the residential areas. About 3 hectares of children’s play space and youth space will be provided".*
+ Paragraph 3.6.2 of the AAAP says: *"We will require children’s play areas to be integrated into the residential areas. About 3 hectares of children’s play space and youth space will be provided".*
 
-The generous allocation that the AAAP made to play and youth space was designed to reflect the fact that the Aylesbury estate itself is designed around an extensive network of children's and youth play spaces.
+The proposed New Southwark Plan makes no requirement to replace any of the children's play and youth space.
+
+Campaigners and residents giving evidence at the EIP also pointed out that there were three separate policies for play space and open space in the AAAP (PL5, PL6, PL7), and that they provided space well beyond that which was standard.  This generous allocation of space in the AAAP reflects the estate's design, around an extensive network of children's and youth play spaces.  Campaigners noted that this was part of the family orientation of the AAAP, and that these policies would need equal prominence in the NSP, to make sure that families remained a priority in the redevelopment.
 
 ![](http://35percent.org/img/aylesburycourts.jpg)
 
-The proposed New Southwark Plan makes no requirement to replace any of the children's play and youth space.
+
 
 ## Family homes
 
