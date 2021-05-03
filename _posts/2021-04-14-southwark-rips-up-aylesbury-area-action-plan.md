@@ -37,7 +37,7 @@ The NSP makes no reference to the green fingers.
 
 ![](/img/screenshot_2021-04-24-richardleeproof-pdf.png)
 
-## Childrens' Play/Youth Space
+## Children's Play/Youth Space
 
  Paragraph 3.6.2 of the AAAP says: *"We will require children’s play areas to be integrated into the residential areas. About 3 hectares of children’s play space and youth space will be provided".*
 
@@ -59,7 +59,7 @@ Meantime, Notting Hill Genesis remain in possession of a planning permission tha
 
 ## End of service life?
 
-The NSP described the Aylesbury estate as *"characterised by large concrete slab buildings built in the mid 1960s –70s, now at the end of their service life."*
+The NSP described the Aylesbury estate as *"characterised by large concrete slab buildings built in the mid-1960s –70s, now at the end of their service life."*
 
 This drew criticism from residents, leading to a change of wording. Further [objections during the EIP hearing](https://www.youtube.com/watch?v=l3CohnTQXhI), argued that the Council had submitted no evidence supporting the claim that the estate was at the end of its service life and had failed to investigate whether refurbishment could be a more viable and sustainable option.  This was contrasted to Southwark's decision [to bail out](http://35percent.org/2020-07-12-aylesbury-estate-fds-variation/) Notting Hill Genesis housing, at a cost of over £200m, after the housing association failed to deliver the First Development site, evidently [hit with financial viability problems](https://www.insidehousing.co.uk/news/news/notting-hill-genesis-scales-back-development-plans-amid-changing-market-conditions-62506). 
 
