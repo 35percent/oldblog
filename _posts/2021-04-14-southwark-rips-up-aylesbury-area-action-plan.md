@@ -13,7 +13,7 @@ The implications of this are significant; while Southwark claim that all the rel
 
 ## Zero Carbon Growth
 
-Amongst the policies supporting the AAAP, Policy 3.6.1 requires the scheme to result in 'zero carbon growth':
+Amongst the policies supporting the AAAP, policy at 3.6.1 requires the scheme to result in 'zero carbon growth':
 
 *"The development will be designed to result in zero carbon growth, that is, no net growth in carbon dioxide emissions despite an increase in the number of dwellings. This will require buildings which are highly energy efficient."*
 
@@ -23,7 +23,7 @@ Experience has shown that unless such a requirement is exact and explicit, as it
 
 ## Open Space
 
-Policy 4.5.1 of the AAAP requires that the Aylesbury redevelopment results in no net loss of open space. Again, while the NSP has the strategic target for the borough, to retain and protect all open space, it makes no specific reference to open space requirements for the redeveloped Aylesbury.
+Policy at 4.5.1 of the AAAP requires that the Aylesbury redevelopment results in no net loss of open space. Again, while the NSP has the strategic target for the borough, to retain and protect all open space, it makes no specific reference to open space requirements for the redeveloped Aylesbury.
 
 This is a particular concern, given Southwark's welcome new commitment to re-provide all the social housing on the new development, which could put space at a premium.  The NSP also allows payments in lieu of providing open space, a get-out that is often used by developers who want to build to maximum density.
 
@@ -37,7 +37,7 @@ The NSP makes no reference to the green fingers.
 
 ## Children's Play/Youth Space
 
- Paragraph 3.6.2 of the AAAP says: *"We will require children’s play areas to be integrated into the residential areas. About 3 hectares of children’s play space and youth space will be provided".*
+ Paragraph 4.5.2 of the AAAP says: *"We will require children’s play areas to be integrated into the residential areas. About 3 hectares of children’s play space and youth space will be provided".*
 
 The proposed New Southwark Plan makes no requirement to replace any of the children's play and youth space.
 
