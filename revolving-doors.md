@@ -1,9 +1,6 @@
 ---                                                                             
 layout: page
-title: "Revolving Doors"
-subtitle: "Southwark Council's links to the development industry"
-sharing: true
-footer: true
+title: "Revolving Doors - Council representatives and their links to the development industry"
 published: true
 --- 
 A [report](http://www.spinwatch.org/index.php/component/k2/item/5458-the-local-lobby-and-the-failure-of-democracy) has found that _"20  per  cent  of  Southwark’s  63 councillors work as lobbyists"_ for developers in the planning industry and that a significant number of Councillors and Council officers are making use of a _'well-oiled revolving door'_ to the industry. This is twice the already alarming [average number](https://www.theguardian.com/society/2018/apr/29/nearly-100-london-councillors-have-links-to-property-industry) of Councillors working in the property development industry in other London boroughs. Here we have documented a few of Southwark's most striking revolving door examples.
