@@ -29,8 +29,6 @@ This is a particular concern, given Southwark's welcome new commitment to re-pro
 
 ![](/img/fdsgreenspace.jpg)
 
-
-
 ![]()
 
 ## Children's Play/Youth Space
@@ -71,7 +69,7 @@ While various community facilities have been completed, the house building progr
 
 These figures also take no account of the homes lost through demolition. When this is factored in, the situation is even worse. Southwark will have to build 2,750 homes just to get back to where we were, before demolition began.  Southwark claim that this will be done by 2027/28 ([see para 31 here](https://www.southwark.gov.uk/assets/attach/38832/EIP202a-Aylesbury-Background-Paper-Update-20042021.pdf)), but they then must build 1,500 more homes to reach 4,200 homes and this will not be achieved until 2035 ([Appendix 2: Sites Methodology Report April 2021](https://www.southwark.gov.uk/assets/attach/37485/EIP82a-Sites-Methdology-Report-April-2021.pdf)).
 
-Campaigners also cast some doubt on whether a large net gain in housing would ever be achieved, without which the huge displacement and disruption of the whole regeneration can barely be justified. The additional pressure on the housing waiting list of rehousing displaced tenants was also noted. 
+Campaigners also cast some doubt on whether a large net gain in housing will ever be achieved, without which the huge displacement and disruption of the whole regeneration can barely be justified. The additional pressure on the housing waiting list of rehousing displaced tenants was also noted. 
 
 ## The time has come for a rethink....
 
