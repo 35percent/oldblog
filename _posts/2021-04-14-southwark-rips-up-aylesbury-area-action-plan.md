@@ -27,7 +27,7 @@ Policy at 4.5.1 of the AAAP requires that the Aylesbury redevelopment results in
 
 This is a particular concern, given Southwark's welcome new commitment to re-provide all the social housing on the new development, which could put space at a premium.  The NSP also allows payments in lieu of providing open space, a get-out that is often used by developers who want to build to maximum density.
 
-![](/img/fdsgreenspace.jpg)
+![](https://35percent.org/img/fdsgreenspace.jpg)
 
 ## Children's Play/Youth Space
 
@@ -55,9 +55,9 @@ The NSP described the Aylesbury estate as *"characterised by large concrete slab
 
 This drew criticism from residents, leading to a change of wording. Further [objections during the EIP hearing](https://www.youtube.com/watch?v=l3CohnTQXhI), argued that the Council had submitted no evidence supporting the claim that the estate was at the end of its service life and had failed to investigate whether refurbishment could be a more viable and sustainable option.  This was contrasted to Southwark's decision [to bail out](http://35percent.org/2020-07-12-aylesbury-estate-fds-variation/) Notting Hill Genesis housing, at a cost of over £200m, after the housing association failed to deliver the First Development site, evidently [hit with financial viability problems](https://www.insidehousing.co.uk/news/news/notting-hill-genesis-scales-back-development-plans-amid-changing-market-conditions-62506). 
 
-Successful examples of the refurbishment of estates built using the same system as the Aylesbury and which might usefully be examined, can be found on the [Six Acres estate](http://crappistmartin.github.io/images/OCD28_SixAcresestateRefurb_Illustrations.pdf) in Islington and the [Doddington estate](/img/doddington.pdf) in Battersea.
+Successful examples of the refurbishment of estates built using the same system as the Aylesbury and which might usefully be examined, can be found on the [Six Acres estate](http://crappistmartin.github.io/images/OCD28_SixAcresestateRefurb_Illustrations.pdf) in Islington and the [Doddington estate](https://35percent.org/img/doddington.pdf) in Battersea.
 
-![](/img/sixacresbeforeafter.jpg)
+![](https://35percent.org/img/sixacresbeforeafter.jpg)
 
 ## Long delayed delivery
 
