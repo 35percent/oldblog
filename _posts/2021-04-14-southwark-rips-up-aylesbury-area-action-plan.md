@@ -29,8 +29,6 @@ This is a particular concern, given Southwark's welcome new commitment to re-pro
 
 ![](/img/fdsgreenspace.jpg)
 
-![]()
-
 ## Children's Play/Youth Space
 
  Paragraph 4.5.2 of the AAAP says: *"We will require children’s play areas to be integrated into the residential areas. About 3 hectares of children’s play space and youth space will be provided".*
